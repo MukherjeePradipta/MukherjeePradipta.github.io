@@ -38,4 +38,4 @@ We welcome highly motivated and passionate candidates with backgrounds in Physic
 - Interested Students willing to join as interns are invited to contact [Pradipta](mailto:pmukherjee@iitd.ac.in) by email, attaching their CV and a statement of purpose.
 
 {: .box-note}
-**Join our research team and thrive in an environment tailored for both scientific and personal development. We look forward to your applications!**
+**Become a part of our research group and thrive in an environment tailored for both scientific and personal development. We look forward to your applications!**
