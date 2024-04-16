@@ -2,7 +2,7 @@
 layout: page
 title: "Lab Members"
 subtitle: "A simple subtitle"
-bigimg: /img/BookShelf.jpg
+bigimg: ../img/BookShelf.jpg
 ---
 
 ## Principal Investigator (PI)
