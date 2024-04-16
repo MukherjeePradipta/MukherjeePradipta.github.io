@@ -4,7 +4,6 @@ title: "Lab Members"
 subtitle: "Why it doesn't work"
 author: Pradipta Mukherjee
 cover-img: assets/img/path.jpg
-full-width: true
 ---
 
 ## Principal Investigator (PI)
