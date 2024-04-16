@@ -19,7 +19,10 @@ CV | [E-mail](pmukherjee@iitd.ac.in) |  [Linkedin](https://www.linkedin.com/in/p
 <br/>
 
 {: .box-success}
-**Join Our Research Team! Open Positions in Postdoc/PhD/Master's project/ Internship**
+<div align="center">
+  **Join Our Research Team! Open Positions in Postdoc/PhD/Master's project/ Internship**
+</div>
+
 
 We welcome highly motivated and passionate candidates with backgrounds in Physics, Optics, Electronics, Mechanics, Biomedical, Biology, Medicine, and related fields to apply for our open positions.
 
