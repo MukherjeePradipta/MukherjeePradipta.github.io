@@ -2,7 +2,7 @@
 layout: page
 title: "Lab Members"
 author: Pradipta Mukherjee
-cover-img: assets/img/path.jpg
+cover-img: assets/img/LabMembers.jpg
 ---
 
 ## Principal Investigator (PI)
