@@ -2,6 +2,8 @@
 layout: page
 title: "Lab Members"
 subtitle: ""
+image: /img/Headshot_Mukherjee.jpg
+bigimg: /img/Headshot_Mukherjee.jpg
 ---
 
 ## Principal Investigator (PI)
