@@ -2,7 +2,7 @@
 layout: page
 title: "Contact Us"
 subtitle: ""
-cover-img: assets/img/Contact.jpg
+cover-img: assets/img/emailContact.jpg
 ---
 
 #### Laboratory of Biomedical Optics (LOBO)  
