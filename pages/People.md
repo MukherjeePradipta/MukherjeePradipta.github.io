@@ -2,6 +2,7 @@
 layout: page
 title: "Lab Members"
 subtitle: "A simple subtitle"
+author: Pradipta Mukherjee
 bigimg: ../img/BookShelf.jpg
 ---
 
