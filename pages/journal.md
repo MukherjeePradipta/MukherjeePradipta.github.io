@@ -8,7 +8,7 @@ subtitle: ""
 Complete list of publications is available in [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) and [ResearchGate](https://www.researchgate.net/profile/Pradipta-Mukherjee/research).
 
 ~~~
-** 2024 **
+**2024**
 ~~~
 
 1.  Thitiya Seesan, <u>Pradipta Mukherjee</u>, Ibrahim Abd El-Sadek, Yiheng Lim, Lida Zhu, Shuichi Makita, and Yoshiaki Yasuno, ["Optical-coherence-tomography-based deep-learning scatterer-density estimator using physically accurate noise model,"](https://opg.optica.org/boe/abstract.cfm?uri=boe-15-5-2832) Biomedcal Optics Express, 15, 2832–2848 (2024).
