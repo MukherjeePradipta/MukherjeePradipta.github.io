@@ -5,6 +5,7 @@ subtitle: ""
 ---
 
 <img src="/img/Headshot_Mukherjee.jpg" alt="drawing" width="200"/>
+
 ## Principal Investigator
 ### Pradipta Mukherjee, Ph.D. 
 
