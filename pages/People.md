@@ -20,7 +20,7 @@ Dr. Mukherjee was awarded the Japanese government MEXT scholarship for his PhD s
 ---------------
 
 {: .box-success}
-Join Our Research Team! <br/>Open Positions in Postdoc/PhD/Master's project/ Internship
+**Join Our Research Team! Open Positions in Postdoc/PhD/Master's project/ Internship**
 
 We welcome highly motivated and passionate candidates with backgrounds in Physics, Optics, Electronics, Mechanics, Biomedical, Biology, Medicine, and related fields to apply for our open positions.
 
@@ -39,4 +39,4 @@ We welcome highly motivated and passionate candidates with backgrounds in Physic
 - Interested Students willing to join as interns are invited to contact [Pradipta](mailto:pmukherjee@iitd.ac.in) by email, attaching their CV and a statement of purpose.
 
 {: .box-note}
-Don't miss the chance to be part of a cutting-edge research group providing an ideal environment for scientific and personal growth. <br/>We look forward to your applications!
+**Don't miss the chance to be part of a cutting-edge research group providing an ideal environment for scientific and personal growth. We look forward to your applications!**
