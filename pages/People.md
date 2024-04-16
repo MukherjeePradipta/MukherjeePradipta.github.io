@@ -10,7 +10,7 @@ subtitle: ""
 
 [E-mail](pmukherjee@iitd.ac.in) | [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works)  | [Linkedin](https://www.linkedin.com/in/pmukherjee-iitd/)
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg) 
+![Mukherjee](https://github.com/MukherjeePradipta/MukherjeePradipta.github.io/blob/master/img/Headshot_Mukherjee.jpg) 
 Dr. Pradipta Mukherjee is an Assistant Professor at the Center for Biomedical Engineering at IIT Delhi. He also holds a joint faculty position at the Department of Biomedical Engineering at AIIMS, Delhi. 
 He received his first Bachelor's degree (B.Sc) in Physics (Honours) from the University of Calcutta in 2008. Subsequently, he obtained a Post B.Sc-B.Tech in Optics and Optoelectronics in 2011, followed by an M.Tech in Optics in 2013, both from the University of Calcutta. He earned his PhD in Polarization Optics from the Center for Optical Research and Education at Utsunomiya University, Japan in 2019. 
 Prior to pursuing his PhD, he worked for a period of time at the CSIR-CSIO lab on an optical system design project for a head-up-display system. Post-PhD, he joined the Computational Optics Group (COG) at the University of Tsukuba, Japan, as a postdoctoral researcher from 2019 to 2024.
