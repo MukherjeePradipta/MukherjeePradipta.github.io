@@ -2,8 +2,7 @@
 layout: page
 title: "Lab Members"
 subtitle: ""
-image: "/img/Headshot_Mukherjee.jpg"
-bigimg: "/img/Headshot_Mukherjee.jpg"
+bigimg: ["/img/Headshot_Mukherjee.jpg"](https://github.com/MukherjeePradipta/MukherjeePradipta.github.io/blob/master/img/BookShelf.jpg)
 ---
 
 ## Principal Investigator (PI)
