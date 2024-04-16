@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Lab Members"
-subtitle: "A simple subtitle"
+subtitle: "Why it doesn't work"
 author: Pradipta Mukherjee
 bigimg: /img/404-southpark.jpg
 ---
