@@ -3,7 +3,7 @@ layout: page
 title: "Lab Members"
 subtitle: "Why it doesn't work"
 author: Pradipta Mukherjee
-bigimg: /img/404-southpark.jpg
+bigimg: ![Members](/img/404-southpark.jpg)
 ---
 
 ## Principal Investigator (PI)
