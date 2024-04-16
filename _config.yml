@@ -20,7 +20,7 @@ author: Laboratory of Biomedical Optics (LOBO)
 ###############################################
 navbar-links:
   Home: 
-  Research:
+  Research: "pages/Research"
   Publications:
     - Journal Papers: "pages/journal"
     - Conference Papers: "pages/conference"
