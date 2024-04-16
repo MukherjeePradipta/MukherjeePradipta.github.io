@@ -19,7 +19,7 @@ author: Laboratory of Biomedical Optics (LOBO)
 # --- List of links in the navigation bar --- #
 ###############################################
 navbar-links:
-  Home: ""
+  Home: 
   Research:
   Publications:
     - Journal Papers: "pages/journal"
@@ -53,7 +53,7 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-email: "pmukherjee@iitd.ac.in"
+  email: "pmukherjee@iitd.ac.in"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   #github: daattali
