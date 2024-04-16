@@ -3,12 +3,8 @@ layout: page
 title: Conference Proceedings and Presentations
 subtitle: ""
 ---
-Complete list of publications are avilable in :   
-[Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works)
-and 
-[Research Gate](https://www.researchgate.net/profile/Pradipta-Mukherjee/research).
-
----------------------------
+{: .box-note}
+Complete list of publications is available in [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) and [Research Gate](https://www.researchgate.net/profile/Pradipta-Mukherjee/research).
 
 #### 2024
 
