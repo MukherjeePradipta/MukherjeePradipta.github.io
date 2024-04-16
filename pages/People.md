@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Lab Members"
-subtitle: "Why it doesn't work"
 author: Pradipta Mukherjee
 cover-img: assets/img/path.jpg
 ---
