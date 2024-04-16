@@ -4,8 +4,9 @@ title: "Lab Members"
 subtitle: ""
 ---
 
-**Pradipta Mukherjee, Ph.D.**   
-**Principal Investigator**
+## Principal Investigator
+
+### Pradipta Mukherjee, Ph.D. 
 
 [E-mail](pmukherjee@iitd.ac.in) | [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works)  | [Linkedin](https://www.linkedin.com/in/pmukherjee-iitd/)
 
