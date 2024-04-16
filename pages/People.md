@@ -4,7 +4,7 @@ title: "Lab Members"
 subtitle: ""
 ---
 
-### Principal Investigator (PI)
+## Principal Investigator (PI)
 
 <img style="float: left; margin:0 10px 10px 0" src="/img/Headshot_Mukherjee.jpg" width="200"/>
 ### Pradipta Mukherjee, Ph.D.   
@@ -14,6 +14,7 @@ OFFICE: BLOCK IV, ROOM 4B-7
 Indian Institute of Technology Delhi   
 Hauz Khas, New Delhi - 110016, India   
 CV | [E-mail](pmukherjee@iitd.ac.in) |  [Linkedin](https://www.linkedin.com/in/pmukherjee-iitd/) | [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) | [ResearchGate](https://www.researchgate.net/profile/Pradipta-Mukherjee) | [IRINS](https://iitd.irins.org/profile/508557)
+<br/>
 <br/>
 <br/>
 
@@ -37,4 +38,4 @@ We welcome highly motivated and passionate candidates with backgrounds in Physic
 - Interested Students willing to join as interns are invited to contact [Pradipta](mailto:pmukherjee@iitd.ac.in) by email, attaching their CV and a statement of purpose.
 
 {: .box-note}
-**Don't miss the chance to be part of a cutting-edge research group providing an ideal environment for scientific and personal growth. We look forward to your applications!**
+**Join our research team and thrive in an environment tailored for both scientific and personal development. We look forward to your applications!**
