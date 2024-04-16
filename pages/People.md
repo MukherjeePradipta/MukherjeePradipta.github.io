@@ -14,7 +14,7 @@ Indian Institute of Technology Delhi
 Hauz Khas, New Delhi - 110016, India   
 CV | [E-mail](pmukherjee@iitd.ac.in) |  [Linkedin](https://www.linkedin.com/in/pmukherjee-iitd/) | [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) | [ResearchGate](https://www.researchgate.net/profile/Pradipta-Mukherjee) | [IRINS](https://iitd.irins.org/profile/508557)
 
----------------
+
 
 {: .box-success}
 **Join Our Research Team! Open Positions in Postdoc/PhD/Master's project/ Internship**
