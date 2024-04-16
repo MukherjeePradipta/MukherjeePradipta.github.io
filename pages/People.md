@@ -7,7 +7,7 @@ subtitle: ""
 ### Principal Investigator (PI)
 
 <img style="float: left; margin:0 10px 10px 0" src="/img/Headshot_Mukherjee.jpg" width="200"/>
-### Pradipta Mukherjee, Ph.D.
+### Pradipta Mukherjee, Ph.D.   
 Assistant Professor   
 Centre for Biomedical Engineering (CBME)   
 Indian Institute of Technology Delhi   
