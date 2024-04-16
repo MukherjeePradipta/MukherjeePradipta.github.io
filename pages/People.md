@@ -3,7 +3,7 @@ layout: page
 title: "Lab Members"
 subtitle: "A simple subtitle"
 author: Pradipta Mukherjee
-bigimg: ../img/BookShelf.jpg
+bigimg:![](/img/BookShelf.jpg)
 ---
 
 ## Principal Investigator (PI)
