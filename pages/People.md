@@ -3,7 +3,7 @@ layout: page
 title: "Lab Members"
 subtitle: ""
 ---
-<img style="float: left;" src="/img/Headshot_Mukherjee.jpg" alt="drawing" width="200"/>
+<img style="float: left;" src="/img/Headshot_Mukherjee.jpg" width="200"/>
 ## Principal Investigator
 ### Pradipta Mukherjee, Ph.D. 
 [E-mail](pmukherjee@iitd.ac.in) | [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works)  | [Linkedin](https://www.linkedin.com/in/pmukherjee-iitd/)
