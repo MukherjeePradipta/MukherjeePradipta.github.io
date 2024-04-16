@@ -5,7 +5,7 @@ cover-img: assets/img/BookShelf.jpg
 full-width: true
 ---
 {: .box-success}
-**Complete list of publications is available in [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) and [ResearchGate](https://www.researchgate.net/profile/Pradipta-Mukherjee/research).**
+<center> <b>Complete list of publications is available in [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) and [ResearchGate](https://www.researchgate.net/profile/Pradipta-Mukherjee/research).</b></center>
 
 #### 2024
 

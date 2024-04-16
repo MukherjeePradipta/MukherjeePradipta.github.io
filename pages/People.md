@@ -19,10 +19,8 @@ CV | [E-mail](pmukherjee@iitd.ac.in) |  [Linkedin](https://www.linkedin.com/in/p
 <br/>
 
 {: .box-success}
-<div align="center">
-  **Join Our Research Team! Open Positions in Postdoc/PhD/Master's project/ Internship**
-</div>
-
+<center> <b>Join Our Research Team! Open Positions in Postdoc/PhD/Master's project/ Internship</b></center>
+  
 
 We welcome highly motivated and passionate candidates with backgrounds in Physics, Optics, Electronics, Mechanics, Biomedical, Biology, Medicine, and related fields to apply for our open positions.
 
@@ -41,4 +39,4 @@ We welcome highly motivated and passionate candidates with backgrounds in Physic
 - Interested Students willing to join as interns are invited to contact [Pradipta](mailto:pmukherjee@iitd.ac.in) by email, attaching their CV and a statement of purpose.
 
 {: .box-note}
-**Become a part of our research group and thrive in an environment tailored for both scientific and personal development. We look forward to your applications!**
+<center> <b>Become a part of our research group and thrive in an environment tailored for both scientific and personal development. We look forward to your applications!</b></center>
