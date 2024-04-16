@@ -20,7 +20,7 @@ Dr. Mukherjee was awarded the Japanese government MEXT scholarship for his PhD s
 
 ---------------
 
-{: .box-success}
+{: .box-important}
 **Join Our Research Team! Open Positions in Postdoc/PhD/Master's project/ Internship**
 
 We welcome highly motivated and passionate candidates with backgrounds in Physics, Optics, Electronics, Mechanics, Biomedical, Biology, Medicine, and related fields to apply for our open positions.
