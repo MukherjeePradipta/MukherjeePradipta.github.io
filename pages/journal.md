@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Peer-reviewed Journal Papers"
-subtitle: ""
+cover-img: assets/img/BookShelf.jpg
 full-width: true
 ---
 
