@@ -26,7 +26,7 @@ We welcome highly motivated and passionate candidates with backgrounds in Physic
 
 **Post-doctoral Positions**
 - Candidates with their own fellowships are encouraged to apply by emailing their CV and a brief research proposal to [Pradipta](mailto:pmukherjee@iitd.ac.in).
-- Explore opportunities for an [institute postdoctoral position](https://home.iitd.ac.in/jobs-iitd/) to work with us. Contact Pradipta with your latest CV to express your interest.
+- Explore opportunities for an [institute postdoctoral position](https://home.iitd.ac.in/jobs-iitd/) to work with us. Contact [Pradipta](mailto:pmukherjee@iitd.ac.in) with your latest CV to express your interest.
 
 **PhD Positions**
 - If you're interested in pursuing a PhD with us, send your latest CV to [Pradipta](mailto:pmukherjee@iitd.ac.in).
