@@ -2,6 +2,7 @@
 layout: page
 title: "Peer-reviewed Journal Papers"
 subtitle: ""
+full-width: true
 ---
 
 {: .box-success}
