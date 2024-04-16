@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 subtitle: ""
-cover-img: assets/img/CoverImg_Research.png
+cover-img: assets/img/Research.png
 full-width: true
 ---
 
