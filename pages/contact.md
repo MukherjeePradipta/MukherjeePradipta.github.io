@@ -12,7 +12,7 @@ cover-img: assets/img/emailContact.jpg
 **Address**  
 Centre for Biomedical Engineering (CBME)  
 Block-IV, Cabin- 4B-7  
-Indian Institute of Technology (IIT) Delhi  
+Indian Institute of Technology Delhi  
 Hauz Khas, New Delhi- 110016
 
 **Email:**  
