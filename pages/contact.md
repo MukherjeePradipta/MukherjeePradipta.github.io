@@ -16,7 +16,7 @@ Indian Institute of Technology Delhi
 Hauz Khas, New Delhi- 110016
 
 **Email:**  
-Primary: [pmukherjee@iitd.ac.in](mailto:pmukherjee@iitd.ac.in)  
+Primary: [pmukherjee@cbme.iitd.ac.in](mailto:pmukherjee@cbme.iitd.ac.in)  
 Secondary: [mukherjee0701@gmail.com](mailto:mukherjee0701@gmail.com) 
 
 
