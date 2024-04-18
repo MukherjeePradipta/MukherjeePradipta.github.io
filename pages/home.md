@@ -2,6 +2,7 @@
 layout: page
 title: "About Us"
 subtitle: ""
+cover-img: assets/img/bgimage.png
 ---
 
 Welcome to **LOBO, the Laboratory of Biomedical Optics** at the Indian Institute of Technology, Delhi.   
