@@ -2,7 +2,7 @@
 layout: page
 title: "Lab Members"
 author: Pradipta Mukherjee
-cover-img: assets/img/LabMembers.jpg: Caption of image
+cover-img: [assets/img/LabMembers.jpg: Caption of image]
 comments: true
 ---
 
@@ -31,7 +31,7 @@ We welcome highly motivated and passionate candidates with backgrounds in Physic
 - Explore opportunities for an [institute postdoctoral position](https://home.iitd.ac.in/jobs-iitd/) to work with us. Contact [Pradipta](mailto:pmukherjee@cbme.iitd.ac.in) with your latest CV to express your interest.
 
 **PhD Positions**
-- If you're interested in pursuing a PhD with us, send your latest CV to [Pradipta](mailto:pmukherjee@cbme.iitd.ac.in).
+- If you're interested in pursuing PhD in our group, send your latest CV to [Pradipta](mailto:pmukherjee@cbme.iitd.ac.in).
 - Remember to apply to CBME, IIT Delhi, during the regular Fall (July-Aug) or Spring (Dec-Jan) admission cycles via our [PG portal](https://ecampus.iitd.ac.in/PGADM/login).
 
 **Master's Projects**
