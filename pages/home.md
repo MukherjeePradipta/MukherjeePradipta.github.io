@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Us"
+title: "**Welcome to LOBO, the Laboratory of Biomedical Optics**"
 subtitle: ""
 cover-img: assets/img/bgimage.png
 ---
