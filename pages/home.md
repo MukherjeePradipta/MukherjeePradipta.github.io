@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "**Welcome to LOBO, the Laboratory of Biomedical Optics**"
+title: "Welcome to LOBO, the Laboratory of Biomedical Optics"
 subtitle: ""
-cover-img: assets/img/bgimage.png
+cover-img: assets/img/path.jpg
 ---
 
 Welcome to **LOBO, the Laboratory of Biomedical Optics** at the Indian Institute of Technology, Delhi.   
