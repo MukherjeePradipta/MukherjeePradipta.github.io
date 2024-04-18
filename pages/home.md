@@ -4,6 +4,12 @@ title: "Welcome to Laboratory of Biomedical Optics (LOBO)"
 subtitle: ""
 cover-img: assets/img/path.jpg
 ---
-We are an interdisciplinary research group at the Indian Institute of Technology, Delhi focusing on the biomedical optics field, combining biomedical and optical science and engineering. 
-Our research interests include optical coherence tomography, microscopy, polarization engineering, and three-dimensional polarization-sensitive microscopy for label-free imaging of small animals. 
-More information about our research can be found in the Research Page section.
+Laboratory of Biomedical Optics at the Indian Institute of Technology, Delhi, is an interdisciplinary research group that focuses on developing novel optical methods based on interferometry, scattering, and polarization for 
+
+1. Imaging biological and medical samples
+2. Understanding the physics of light propagation through biological tissue
+3. Assessment, diagnosis, and treatment of diseases. 
+
+Our lab intends to perform highly interdisciplinary research work focusing on technology development, basic biological studies, and clinical research.
+The research areas are optics, Biophysics, Optical coherence Tomography, Microscopy, and Polarization engineering.   
+<br/>To learn more about our research, please visit our Research page section.
