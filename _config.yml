@@ -25,7 +25,7 @@ navbar-links:
     - Journal Papers: "pages/journal"
     - Conference Papers: "pages/conference"
     - Patents: "pages/patents"
-  Lab members: "pages/People"
+  Team: "pages/People"
   #Teaching: 
   #People:
   Contact: "pages/contact"
