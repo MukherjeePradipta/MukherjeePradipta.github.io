@@ -19,7 +19,7 @@ author: Laboratory of Biomedical Optics (LOBO)
 # --- List of links in the navigation bar --- #
 ###############################################
 navbar-links:
-  Home: "pages/home"
+  Home: "https://mukherjeepradipta.github.io/"
   Research: "pages/Research"
   Publications:
     - Journal Papers: "pages/journal"
