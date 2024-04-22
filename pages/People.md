@@ -16,7 +16,7 @@ Indian Institute of Technology Delhi
 Office: Block IV, Room 4B-7   
 Hauz Khas, New Delhi - 110016, India
   
-[CV](https://github.com/MukherjeePradipta/MukherjeePradipta.github.io/blob/master/PDF/CV_PradiptaMukherjee.pdf) | [E-mail](mailto:pmukherjee@cbme.iitd.ac.in) |  [Linkedin](https://www.linkedin.com/in/pmukherjee-iitd/) | [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) | [ResearchGate](https://www.researchgate.net/profile/Pradipta-Mukherjee) | [IRINS](https://iitd.irins.org/profile/508557)
+[CV](/PDF/CV_PradiptaMukherjee.pdf) | [E-mail](mailto:pmukherjee@cbme.iitd.ac.in) |  [Linkedin](https://www.linkedin.com/in/pmukherjee-iitd/) | [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) | [ResearchGate](https://www.researchgate.net/profile/Pradipta-Mukherjee) | [IRINS](https://iitd.irins.org/profile/508557)
 <br/>
 <br/>
 
@@ -24,7 +24,7 @@ Hauz Khas, New Delhi - 110016, India
 <center> <b>Join Our Research Team! Open Positions in Postdoc/PhD/Master's project/ Internship</b></center>
   
 
-We welcome highly motivated and passionate candidates with backgrounds in Physics, Optics, Electronics, Electrical, Mechanics, Biomedical, Biology, Medicine, and related fields to apply for our open positions.
+We welcome motivated candidates with backgrounds in Physics, Optics, Electronics, Electrical, Mechanics, Biomedical, Biology, Medicine, and related fields to apply for our open positions.
 
 **Post-doctoral Positions**
 - Candidates with their own fellowships are encouraged to apply by emailing their CV and a brief research proposal to [Pradipta](mailto:pmukherjee@cbme.iitd.ac.in).
