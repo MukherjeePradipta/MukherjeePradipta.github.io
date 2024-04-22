@@ -16,7 +16,7 @@ Indian Institute of Technology Delhi
 Office: Block IV, Room 4B-7   
 Hauz Khas, New Delhi - 110016, India
   
-[CV](/PDF/CV_PradiptaMukherjee.pdf) | [E-mail](mailto:pmukherjee@cbme.iitd.ac.in) |  [Linkedin](https://www.linkedin.com/in/pmukherjee-iitd/) | [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) | [ResearchGate](https://www.researchgate.net/profile/Pradipta-Mukherjee) | [IRINS](https://iitd.irins.org/profile/508557)
+[CV](/pdf/CV_PradiptaMukherjee.pdf) | [E-mail](mailto:pmukherjee@cbme.iitd.ac.in) |  [Linkedin](https://www.linkedin.com/in/pmukherjee-iitd/) | [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) | [ResearchGate](https://www.researchgate.net/profile/Pradipta-Mukherjee) | [IRINS](https://iitd.irins.org/profile/508557)
 <br/>
 <br/>
 
