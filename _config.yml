@@ -26,8 +26,7 @@ navbar-links:
     - Conference Papers: "pages/conference"
     - Patents: "pages/patents"
   Team: "pages/People"
-  #Teaching: 
-  #People:
+  Openings: "pages/joinus"
   Contact: "pages/contact"
 ################
 # --- Logo --- #
