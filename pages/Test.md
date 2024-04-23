@@ -43,8 +43,8 @@ Hauz Khas, New Delhi - 110016, India
 </div>
   
   <!-- PhD student 4 -->
-  <div style="flex:1; text-align:center;width="200"">
-    <img src="/images/Headshot_Mukherjee.jpg" alt="PhDStudent4" style="display:block; margin:auto;">
+  <div style="flex:1; text-align:center;margin-right:10px;">
+    <img src="/images/Headshot_Mukherjee.jpg" width="200" alt="PhDStudent4" style="display:block; margin:auto;">
     <strong>PhD Student 4</strong>
     <p style="margin-top:5px;"><a href="mailto:PhDStudent4@email.com">Email</a> | <a href="https://www.linkedin.com/in/PhDStudent4">LinkedIn</a></p>
   </div>
