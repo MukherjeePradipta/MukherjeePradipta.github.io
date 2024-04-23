@@ -42,12 +42,9 @@ Hauz Khas, New Delhi - 110016, India
     <p><a href="mailto:alumni3@email.com">Email</a> | <a href="https://www.linkedin.com/in/alumni3">LinkedIn</a></p>
   </div>
 </div>
-
   <!-- Alumni 3 -->
   <div style="flex:1; text-align:center;">
     <img src="/images/Headshot_Mukherjee.jpg" width="200" alt="PI Image" style="display:block; margin:auto;">
     <strong>Alumni name 3</strong>
     <p><a href="mailto:alumni3@email.com">Email</a> | <a href="https://www.linkedin.com/in/alumni3">LinkedIn</a></p>
   </div>
-</div>
-
