@@ -20,30 +20,32 @@ Hauz Khas, New Delhi - 110016, India
 ## PhD Students
 
 <div style="display:flex; justify-content:center; align-items:center;">
-  <!-- Alumni 1 -->
-  <div style="flex:1; text-align:center; margin-right:20px;">
+  <!-- PhD student 1 -->
+  <div style="flex:1; text-align:center; margin-right:10px;">
     <img src="/images/Headshot_Mukherjee.jpg" alt="PhD Student1" style="display:block; margin:auto;">
     <strong>PhD Student 1</strong>
     <p style="margin-top:5px;"><a href="mailto:PhDStudent1@email.com">Email</a> | <a href="https://www.linkedin.com/in/PhDStudent1">LinkedIn</a></p>
   </div>
 
-  <!-- Alumni 2 -->
-  <div style="flex:1; text-align:center; margin-right:20px;">
+  <!-- PhD student 2 -->
+  <div style="flex:1; text-align:center; margin-right:10px;">
     <img src="/images/Headshot_Mukherjee.jpg" alt="PhDStudent2" style="display:block; margin:auto;">
     <strong>PhD Student 2</strong>
     <p style="margin-top:5px;"><a href="mailto:PhDStudent2@email.com">Email</a> | <a href="https://www.linkedin.com/in/PhDStudent2">LinkedIn</a></p>
   </div>
 
-  <!-- Alumni 3 -->
-  <div style="flex:1; text-align:center;margin-right:20px;">
+  <!-- PhD student 3 -->
+  <div style="flex:1; text-align:center;margin-right:10px;">
     <img src="/images/Headshot_Mukherjee.jpg" alt="PhDStudent3" style="display:block; margin:auto;">
     <strong>PhD Student 3</strong>
     <p style="margin-top:5px;"><a href="mailto:PhDStudent3@email.com">Email</a> | <a href="https://www.linkedin.com/in/PhDStudent3">LinkedIn</a></p>
   </div>
 </div>
-  <!-- Alumni 3 -->
-  <div style="flex:1; text-align:center;margin-right:20px;">
+  
+  <!-- PhD student 4 -->
+  <div style="flex:1; text-align:center;width="200"">
     <img src="/images/Headshot_Mukherjee.jpg" alt="PhDStudent4" style="display:block; margin:auto;">
     <strong>PhD Student 4</strong>
     <p style="margin-top:5px;"><a href="mailto:PhDStudent4@email.com">Email</a> | <a href="https://www.linkedin.com/in/PhDStudent4">LinkedIn</a></p>
   </div>
+
