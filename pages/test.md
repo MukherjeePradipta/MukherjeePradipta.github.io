@@ -4,9 +4,13 @@ title: News and announcements
 author: Pradipta Mukherjee
 ---
 
-# News & Announcements Slideshow
+# News & Announcements Slideshow with Preloader
 
-<div id="slideshow-container">
+<div id="preloader">
+  <div id="status">&nbsp;</div>
+</div>
+
+<div id="slideshow-container" style="display:none;">
   <div class="slide">
     <h2>New Research Collaboration with XYZ University</h2>
     <p><strong>Posted on April 20, 2024</strong></p>
@@ -44,6 +48,16 @@ author: Pradipta Mukherjee
 </div>
 
 <script>
+  document.onreadystatechange = function () {
+    if (document.readyState !== "complete") {
+      document.getElementById("slideshow-container").style.visibility = "hidden";
+      document.getElementById("preloader").style.visibility = "visible";
+    } else {
+      document.getElementById("preloader").style.display = "none";
+      document.getElementById("slideshow-container").style.visibility = "visible";
+    }
+  };
+
   let currentSlide = 0;
   const slides = document.querySelectorAll('.slide');
 
