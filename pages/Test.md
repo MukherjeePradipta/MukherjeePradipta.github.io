@@ -19,14 +19,36 @@ Hauz Khas, New Delhi - 110016, India
 
 ## Alumni
 
+<div style="display:flex; justify-content:center; align-items:center;">
+  <!-- Alumni 1 -->
+  <div style="flex:1; text-align:center;">
+    <img src="/images/Headshot_Mukherjee.jpg" alt="PI Image" style="display:block; margin:auto;">
+    <strong>Alumni name 1</strong>
+    <p><a href="mailto:alumni1@email.com">Email</a> | <a href="https://www.linkedin.com/in/alumni1">LinkedIn</a></p>
+  </div>
+
+  <!-- Alumni 2 -->
+  <div style="flex:1; text-align:center;">
+    <img src="/images/Headshot_Mukherjee.jpg" alt="PI Image" style="display:block; margin:auto;">
+    <strong>Alumni name 2</strong>
+    <p><a href="mailto:alumni2@email.com">Email</a> | <a href="https://www.linkedin.com/in/alumni2">LinkedIn</a></p>
+  </div>
+
+  <!-- Alumni 3 -->
+  <div style="flex:1; text-align:center;">
+    <img src="/images/Headshot_Mukherjee.jpg" alt="PI Image" style="display:block; margin:auto;">
+    <strong>Alumni name 3</strong>
+    <p><a href="mailto:alumni3@email.com">Email</a> | <a href="https://www.linkedin.com/in/alumni3">LinkedIn</a></p>
+  </div>
+</div>
+
+
+### Test 
+
 | | | |
 |---|---|---|
 | ![PI Image](/images/Headshot_Mukherjee.jpg) | ![PI Image](/images/Headshot_Mukherjee.jpg) | ![PI Image](/images/Headshot_Mukherjee.jpg) |
 | **Alumni name 1** | **Alumni name 2** | **Alumni name 3** |
 | [Email](mailto:alumni1@email.com) [LinkedIn](https://www.linkedin.com/in/alumni1) | [Email](mailto:alumni1@email.com) [LinkedIn](https://www.linkedin.com/in/alumni1) | [Email](mailto:alumni1@email.com) [LinkedIn](https://www.linkedin.com/in/alumni1) |
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="/images/Headshot_Mukherjee.jpg" alt="PI Image" style="display:block; margin:auto;"> | <img src="/images/Headshot_Mukherjee.jpg" alt="PI Image" style="display:block; margin:auto;"> | <img src="/images/Headshot_Mukherjee.jpg" alt="PI Image" style="display:block; margin:auto;"> |
-| <p style="text-align:center;"><strong>Alumni name 1</strong></p> | <p style="text-align:center;"><strong>Alumni name 2</strong></p> | <p style="text-align:center;"><strong>Alumni name 3</strong></p> |
-| <p style="text-align:center;"><a href="mailto:alumni1@email.com"><img src="https://img.shields.io/badge/Email-%23DD0031?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/alumni1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p> | <p style="text-align:center;"><a href="mailto:alumni2@email.com"><img src="https://img.shields.io/badge/Email-%23DD0031?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/alumni2"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p> | <p style="text-align:center;"><a href="mailto:alumni3@email.com"><img src="https://img.shields.io/badge/Email-%23DD0031?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/alumni3"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p> |
+
