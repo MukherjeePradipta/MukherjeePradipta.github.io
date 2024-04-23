@@ -28,7 +28,6 @@ navbar-links:
   Team: "pages/People"
   Openings: "pages/joinus"
   Contact: "pages/contact"
-  Test: "pages/Test"
 ################
 # --- Logo --- #
 ################
