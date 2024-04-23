@@ -19,16 +19,17 @@ Hauz Khas, New Delhi - 110016, India
 
 ## Alumni
 
+
 <div style="display:flex; justify-content:center; align-items:center;">
   <!-- Alumni 1 -->
-  <div style="flex:1; text-align:center;">
+  <div style="flex:1; text-align:center; margin-right:20px;">
     <img src="/images/Headshot_Mukherjee.jpg" alt="PI Image" style="display:block; margin:auto;">
     <strong>Alumni name 1</strong>
     <p><a href="mailto:alumni1@email.com">Email</a> | <a href="https://www.linkedin.com/in/alumni1">LinkedIn</a></p>
   </div>
 
   <!-- Alumni 2 -->
-  <div style="flex:1; text-align:center;">
+  <div style="flex:1; text-align:center; margin-right:20px;">
     <img src="/images/Headshot_Mukherjee.jpg" alt="PI Image" style="display:block; margin:auto;">
     <strong>Alumni name 2</strong>
     <p><a href="mailto:alumni2@email.com">Email</a> | <a href="https://www.linkedin.com/in/alumni2">LinkedIn</a></p>
@@ -41,6 +42,7 @@ Hauz Khas, New Delhi - 110016, India
     <p><a href="mailto:alumni3@email.com">Email</a> | <a href="https://www.linkedin.com/in/alumni3">LinkedIn</a></p>
   </div>
 </div>
+
 
 
 ### Test 
