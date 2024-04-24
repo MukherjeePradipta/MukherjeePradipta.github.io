@@ -305,7 +305,7 @@ plugins:
 collections:
   latest_research:
     output: true
-    permalink: /latest_research/:title
+    permalink: /latest_research/:title/
 
 
 # Beautiful Jekyll / Dean Attali
