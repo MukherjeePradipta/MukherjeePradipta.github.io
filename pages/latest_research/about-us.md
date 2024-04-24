@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: About Us
-author: Pradipta 
+subtitle: ""
 ---
 
 Laboratory of Biomedical Optics at the Indian Institute of Technology, Delhi, is an interdisciplinary research group that focuses on developing novel optical methods based on interferometry, scattering, and polarization for 
