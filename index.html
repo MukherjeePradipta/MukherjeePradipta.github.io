@@ -48,31 +48,74 @@ The research areas are <strong>Optics, Biophysics, Optical coherence Tomography,
 
 <!-- Lab gallery -->
 
-<br/>
-<h3>Image Gallery </h3>
-  <div style="display:flex; justify-content:center; align-items:center;">
-  <!-- Image 1 -->
-  <div style="flex:1; text-align:center;margin-right:5px;">
-    <img src="https://via.placeholder.com/200" width="200" alt="Image1" style="display:block; margin:auto;">
+<!-- Image Gallery Section -->
+<div style="margin-top: 20px;">
+  <h3>Image Gallery</h3>
+
+  <div id="image-gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    <!-- Image 1 -->
+    <div class="gallery-item">
+      <img src="assets/img/gallery-image1.jpg" alt="Gallery Image 1">
+    </div>
+    <!-- Add more images as needed -->
+    <!-- Image 2 -->
+    <div class="gallery-item">
+      <img src="assets/img/gallery-image2.jpg" alt="Gallery Image 2">
+    </div>
+    <!-- Image 3 -->
+    <div class="gallery-item">
+      <img src="assets/img/gallery-image3.jpg" alt="Gallery Image 3">
+    </div>
+    <!-- Image 4 -->
+    <div class="gallery-item">
+      <img src="assets/img/gallery-image4.jpg" alt="Gallery Image 4">
+    </div>
+    <!-- Image 5 -->
+    <div class="gallery-item">
+      <img src="assets/img/gallery-image5.jpg" alt="Gallery Image 5">
+    </div>
+    <!-- Image 6 -->
+    <div class="gallery-item">
+      <img src="assets/img/gallery-image6.jpg" alt="Gallery Image 6">
+    </div>
+    <!-- Add more images as needed -->
   </div>
 
-  <!-- Image 2 -->
-  <div style="flex:1; text-align:center;margin-right:5px;">
-    <img src="https://via.placeholder.com/200" width="200" alt="Image2" style="display:block; margin:auto;">
-  </div>
-
-  <!-- Image 3 -->
-  <div style="flex:1; text-align:center;margin-right:5px;">
-    <img src="https://via.placeholder.com/200" width="200" alt="Image3" style="display:block; margin:auto;">
-  </div>
-
-  <!-- Image 4 -->
-  <div style="flex:1; text-align:center;margin-right:5px;">
-    <img src="https://via.placeholder.com/200" width="200" alt="Image4" style="display:block; margin:auto;">
-  </div>
-  
-    <!-- Image 45-->
-  <div style="flex:1; text-align:center;margin-right:5px;">
-    <img src="https://via.placeholder.com/200" width="200" alt="Image5" style="display:block; margin:auto;">
+  <!-- Pagination -->
+  <div id="pagination" style="margin-top: 20px;">
+    <button onclick="loadMoreImages()">Load More</button>
   </div>
 </div>
+
+<script>
+  let startIndex = 6; // Number of images already displayed
+  const images = [
+    "assets/img/gallery-image7.jpg",
+    "assets/img/gallery-image8.jpg",
+    "assets/img/gallery-image9.jpg",
+    // Add more image paths as needed
+  ];
+
+  function loadMoreImages() {
+    const gallery = document.getElementById("image-gallery");
+    const pagination = document.getElementById("pagination");
+
+    const endIndex = Math.min(startIndex + 3, images.length); // Load 3 images at a time
+    for (let i = startIndex; i < endIndex; i++) {
+      const galleryItem = document.createElement("div");
+      galleryItem.className = "gallery-item";
+      const image = document.createElement("img");
+      image.src = images[i];
+      image.alt = "Gallery Image " + (i + 1);
+      galleryItem.appendChild(image);
+      gallery.appendChild(galleryItem);
+    }
+
+    startIndex = endIndex;
+
+    // Hide Load More button if all images are loaded
+    if (startIndex >= images.length) {
+      pagination.style.display = "none";
+    }
+  }
+</script>
