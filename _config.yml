@@ -20,7 +20,7 @@ author: Biophotonics Research Group (BRG)
 ###############################################
 navbar-links:
   Home: "https://mukherjeepradipta.github.io/"
-  News: "News_announcements"
+  News: "news"
   Research: "pages/Research"
   
   Publications:
