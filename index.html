@@ -25,6 +25,8 @@ The research areas are <strong>Optics, Biophysics, Optical coherence Tomography,
 
 <p>To learn more about our research, please visit our <a href="https://mukherjeepradipta.github.io/pages/Research/">Research page</a> section.</p>
 
+<!-- -------------------------------------------------- -->
+
 <!-- Latest News Section -->
 <div style="background-color: #D3D3D3; color: white; overflow: hidden;">
   <img src="https://via.placeholder.com/300" alt="News Image" style="float: left; width: 300px; height: auto; margin-right: 20px;">
@@ -46,7 +48,7 @@ The research areas are <strong>Optics, Biophysics, Optical coherence Tomography,
   </div>
 </div>
 
---------------------------------------------------------
+<!-- -------------------------------------------------- -->
 <!-- Image Gallery Section -->
 <div style="margin-top: 20px;">
   <h3>Image Gallery</h3>
@@ -61,69 +63,6 @@ The research areas are <strong>Optics, Biophysics, Optical coherence Tomography,
     {% endfor %}
   </div>
 </div>
-----------------------------
-<!-- Lab gallery 
-
-<!-- Image Gallery Section -->
-<div style="margin-top: 30px;">
-  <h3>Gallery</h3>
-
-  <div id="image-gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
-    <!-- Display only a few images from the folder -->
-    {% for file in site.static_files %}
-      {% if file.path contains '/assets/img/' %}
-        {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
-          {% if forloop.index <= 6 %} <!-- Display only the first 6 images -->
-            <div class="gallery-item">
-              <img src="{{ file.path }}" alt="Gallery Image">
-            </div>
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  </div>
 
   <!-- Link to All Lab Images -->
-  <p>View all lab images <a href="/assets/img/">here</a>.</p>
-</div>
-
---------------------------
-
-<!-- Lab gallery -->
-
-<!-- Image Gallery Section -->
-<div style="margin-top: 30px;">
-  <h3>Gallery</h3>
-
-  <div id="image-gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
-    <!-- Image 1 -->
-    <div class="gallery-item">
-      <img src="assets/img/404-southpark.jpg" alt="Gallery Image 1">
-    </div>
-    <!-- Add more images as needed -->
-    <!-- Image 2 -->
-    <div class="gallery-item">
-      <img src="assets/img/IIT-Delhi_logo.png" alt="Gallery Image 2">
-    </div>
-    <!-- Image 3 -->
-    <div class="gallery-item">
-      <img src="assets/img/avatar-icon.png" alt="Gallery Image 3">
-    </div>
-    <!-- Image 4 -->
-    <div class="gallery-item">
-      <img src="assets/img/bgimage.png" alt="Gallery Image 4">
-    </div>
-    <!-- Image 5 -->
-    <div class="gallery-item">
-      <img src="assets/img/crepe.jpg" alt="Gallery Image 5">
-    </div>
-    <!-- Image 6 -->
-    <div class="gallery-item">
-      <img src="assets/img/emailContact.jpg" alt="Gallery Image 6">
-    </div>
-    <!-- Add more images as needed -->
-  </div>
-
-  <!-- Link to All Lab Images -->
-    <p>View all lab images <a href="/assets/img/">here</a>.</p>
-  -->
+  <p>View all lab images <a href="gallery.html">here</a>.</p>
