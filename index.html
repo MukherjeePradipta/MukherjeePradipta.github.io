@@ -46,23 +46,35 @@ The research areas are <strong>Optics, Biophysics, Optical coherence Tomography,
   </div>
 </div>
 
-<!-- Gallery Section -->
-    <h2>Gallery</h2>
-    <div class="gallery">
-        {% for file in site.static_files %}
-            {% assign pageurl = page.url | replace: 'index.html', '' %}
-            {% if file.path contains '/assets/img/' %}
-                {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
-                    <img src="{{ file.path }}" alt="Lab Image">
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-    </div>
+----------------------------
+<!-- Lab gallery -->
 
-    <!-- Link to All Lab Images -->
-    <p>View all lab images <a href="/assets/img/">here</a>.</p>
+<!-- Image Gallery Section -->
+<div style="margin-top: 30px;">
+  <h3>Gallery</h3>
 
-<!-- Lab gallery 
+  <div id="image-gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
+    <!-- Display only a few images from the folder -->
+    {% for file in site.static_files %}
+      {% if file.path contains '/assets/img/' %}
+        {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+          {% if forloop.index <= 6 %} <!-- Display only the first 6 images -->
+            <div class="gallery-item">
+              <img src="{{ file.path }}" alt="Gallery Image">
+            </div>
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Link to All Lab Images -->
+  <p>View all lab images <a href="/gallery/">here</a>.</p>
+</div>
+
+--------------------------
+
+<!-- Lab gallery -->
 
 <!-- Image Gallery Section -->
 <div style="margin-top: 30px;">
@@ -97,41 +109,5 @@ The research areas are <strong>Optics, Biophysics, Optical coherence Tomography,
     <!-- Add more images as needed -->
   </div>
 
-  <!-- Pagination -->
-  <div id="pagination" style="margin-top: 20px;">
-    <button onclick="loadMoreImages()">Load More</button>
-  </div>
-</div>
-
-<script>
-  let startIndex = 6; // Number of images already displayed
-  const images = [
-    "assets/img/output.jpg",
-    "assets/img/path.jpg",
-    "assets/img/thumb.jpg",
-    // Add more image paths as needed
-  ];
-
-  function loadMoreImages() {
-    const gallery = document.getElementById("image-gallery");
-    const pagination = document.getElementById("pagination");
-
-    const endIndex = Math.min(startIndex + 3, images.length); // Load 3 images at a time
-    for (let i = startIndex; i < endIndex; i++) {
-      const galleryItem = document.createElement("div");
-      galleryItem.className = "gallery-item";
-      const image = document.createElement("img");
-      image.src = images[i];
-      image.alt = "Gallery Image " + (i + 1);
-      galleryItem.appendChild(image);
-      gallery.appendChild(galleryItem);
-    }
-
-    startIndex = endIndex;
-
-    // Hide Load More button if all images are loaded
-    if (startIndex >= images.length) {
-      pagination.style.display = "none";
-    }
-  }
-</script>-->
+  <!-- Link to All Lab Images -->
+    <p>View all lab images <a href="/assets/img/">here</a>.</p>
