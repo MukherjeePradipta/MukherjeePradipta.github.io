@@ -46,6 +46,32 @@ The research areas are <strong>Optics, Biophysics, Optical coherence Tomography,
   </div>
 </div>
 
+---------------------------------------------------------
+<div style="margin-top: 30px;">
+  <h3>Galleryyyyyyyyy</h3>
+  
+  <div class="gallery">
+    {% for file in site.static_files %}
+        {% assign pageurl = page.url | replace: 'index.html', '' %}
+        {% if file.path contains '/assets/img/' %}
+            {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+                <img class="gallery-image" src="{{ file.path }}" alt="Lab Image">
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</div>
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust the minmax values to control image size */
+    gap: 10px; /* Adjust the gap between images */
+}
+
+.gallery-image {
+    width: 100%;
+    height: auto;
+}
+
 ----------------------------
 <!-- Lab gallery -->
 
