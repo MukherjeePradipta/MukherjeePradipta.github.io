@@ -1,15 +1,21 @@
 ---
-layout: page
-title: Welcome to BRG
-subtitle: Innovating Optics for Health
+layout: default
+title: "Image Gallery"
+subtitle: ""
 permalink: /gallery/
 ---
-<ul>
-  {% for file in site.static_files %}
+
+<div style="margin-top: 20px;">
+  <h3>Image Gallery</h3>
+
+  <div id="image-gallery" class="gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 5px;">
+    {% for file in site.static_files %}
       {% if file.path contains '/assets/img/gallery_all/' and (file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.gif') %}
         <div class="gallery-item">
           <img src="{{ file.path }}" alt="Gallery Image">
         </div>
       {% endif %}
     {% endfor %}
-</ul>
+  </div>
+</div>
+
