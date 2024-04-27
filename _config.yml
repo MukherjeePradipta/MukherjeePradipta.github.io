@@ -28,7 +28,6 @@ navbar-links:
     - Conference Papers: "pages/conference"
     - Patents: "pages/patents"
   Team: "pages/People"
-  Gallery: "pages/projects"
   Openings: "pages/joinus"
   Contact: "pages/contact"
 ################
