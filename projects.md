@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Projects
+title: Gallery
+full-width: true
 ---
 
 <style>
@@ -17,7 +18,7 @@ title: Projects
 
 <div class="image-grid">
   {% for file in site.static_files %}
-    {% if file.path contains '/assets/img/gallery_home/' and (file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.gif') %}
+    {% if file.path contains '/assets/img/gallery_all/' and (file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.gif') %}
       <img src="{{ file.path }}" alt="Gallery Image">
     {% endif %}
   {% endfor %}
