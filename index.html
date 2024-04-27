@@ -66,39 +66,3 @@ The research areas are <strong>Optics, Biophysics, Optical coherence Tomography,
 
   <!-- Link to All Lab Images -->
   <p>View all lab images <a href="/pages/gallery">here</a>.</p>
-
----------------------------------------------------
-
-<!-- Gallery Section -->
-<h3>Gallery</h3>
-<div id="gallery"></div>
-
-<script>
-// Function to fetch all images from the specified directory
-function fetchImages() {
-  // Path to the directory containing images
-  var directory = "/assets/img/gallery_all/";
-
-  // Fetch all images from the directory
-  fetch(directory)
-    .then(response => response.text())
-    .then(text => {
-      // Extract image file names from the response
-      var fileNames = text.match(/[^\/]+(?=\.jpg|\.jpeg|\.png|\.gif)/g);
-
-      // Generate links for each image
-      var galleryHTML = "";
-      fileNames.forEach(fileName => {
-        galleryHTML += `<a href="${directory}${fileName}">${fileName}</a><br>`;
-      });
-
-      // Display the gallery
-      document.getElementById("gallery").innerHTML = galleryHTML;
-    })
-    .catch(error => console.error('Error fetching images:', error));
-}
-
-// Call the function to fetch and display images
-fetchImages();
-</script>
-
