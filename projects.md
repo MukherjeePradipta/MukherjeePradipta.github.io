@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
 ---
 <ul>
   {% for file in site.static_files %}
