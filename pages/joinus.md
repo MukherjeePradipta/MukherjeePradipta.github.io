@@ -8,7 +8,7 @@ subtitle: ""
 <center> <b>Join Our Research Team! Open Positions in Postdoc/PhD/Master's project/ Internship</b></center>
   
 
-We welcome motivated candidates with backgrounds in Physics, Optics, Electronics, Electrical, Mechanics, Biomedical, Biology, Medicine, and related fields to apply for our open positions.
+We welcome motivated candidates with backgrounds in Physics, Optics, Biomedical, Electronics, Computer Science, Electrical, Biology, Medicine, and other allied fields to apply for our open positions.
 
 **Post-doctoral Positions**
 - Candidates with their own fellowships are encouraged to apply by emailing their CV and a brief research proposal to [Pradipta](mailto:pmukherjee@cbme.iitd.ac.in).
