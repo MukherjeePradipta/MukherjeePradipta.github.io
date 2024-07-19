@@ -18,7 +18,7 @@ Hauz Khas, New Delhi - 110016, India
 <br/>
 <br/>
 
-<!--
+
 ## PhD Students 
 <div style="display:flex; justify-content:center; align-items:center;">
   <!-- PhD student 1 -->
@@ -27,7 +27,6 @@ Hauz Khas, New Delhi - 110016, India
     <strong>PhD Student 1</strong>
     <p style="margin-top:5px;"><a href="mailto:PhDStudent1@email.com">Email</a> | <a href="https://www.linkedin.com/in/PhDStudent1">LinkedIn</a></p>
   </div>
-  -->
 
   <!-- PhD student 2 -->
   <div style="flex:1; text-align:center; margin-right:10px;">
@@ -84,4 +83,3 @@ Hauz Khas, New Delhi - 110016, India
     <p style="margin-top:5px;"><a href="mailto:mtechstudent4@email.com">Email</a> | <a href="https://www.linkedin.com/in/mtechstudent4">LinkedIn</a></p>
   </div>
 </div>
--->
