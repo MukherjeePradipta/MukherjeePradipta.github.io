@@ -52,34 +52,34 @@ Hauz Khas, New Delhi - 110016, India
   </div>-->  
 </div> 
 
-## Graduate Students
+<!--## Graduate Students-->
 
-<div style="display:flex; justify-content:center; align-items:center;">
+<!--<div style="display:flex; justify-content:center; align-items:center;">-->
   <!-- Graduate student 1 -->
-  <div style="flex:1; text-align:center; margin-right:10px;">
+  <!-- <div style="flex:1; text-align:center; margin-right:10px;">
     <img src="https://via.placeholder.com/200" width="200" alt="M.tech Student1" style="display:block; margin:auto;">
     <strong>M.tech Student 1</strong>
     <p style="margin-top:5px;"><a href="mailto:mtechstudent1@email.com">Email</a> | <a href="https://www.linkedin.com/in/mtechstudent1">LinkedIn</a></p>
-  </div>
+  </div>-->
 
   <!-- Graduate student 2 -->
-  <div style="flex:1; text-align:center; margin-right:10px;">
+  <!--<div style="flex:1; text-align:center; margin-right:10px;">
     <img src="https://via.placeholder.com/200" width="200" alt="M.tech Student2" style="display:block; margin:auto;">
     <strong>M.tech Student 2</strong>
     <p style="margin-top:5px;"><a href="mailto:mtechstudent2@email.com">Email</a> | <a href="https://www.linkedin.com/in/mtechstudent2">LinkedIn</a></p>
-  </div>
+  </div>-->
 
   <!-- Graduate student 3 -->
-  <div style="flex:1; text-align:center;margin-right:10px;">
+  <!--<div style="flex:1; text-align:center;margin-right:10px;">
     <img src="https://via.placeholder.com/200" width="200" alt="M.tech Student3" style="display:block; margin:auto;">
     <strong>M.tech Student 3</strong>
     <p style="margin-top:5px;"><a href="mailto:mtechstudent3@email.com">Email</a> | <a href="https://www.linkedin.com/in/mtechstudent3">LinkedIn</a></p>
-  </div>
+  </div>-->
 
   <!-- Graduate student 4 -->
-  <div style="flex:1; text-align:center;margin-right:10px;">
+  <!--<div style="flex:1; text-align:center;margin-right:10px;">
     <img src="https://via.placeholder.com/200" width="200" alt="M.tech Student4" style="display:block; margin:auto;">
     <strong>M.tech Student 4</strong>
     <p style="margin-top:5px;"><a href="mailto:mtechstudent4@email.com">Email</a> | <a href="https://www.linkedin.com/in/mtechstudent4">LinkedIn</a></p>
-  </div>
+  </div>-->
 </div>
