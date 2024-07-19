@@ -27,6 +27,7 @@ Hauz Khas, New Delhi - 110016, India
     <strong>PhD Student 1</strong>
     <p style="margin-top:5px;"><a href="mailto:PhDStudent1@email.com">Email</a> | <a href="https://www.linkedin.com/in/PhDStudent1">LinkedIn</a></p>
   </div>
+  -->
 
   <!-- PhD student 2 -->
   <div style="flex:1; text-align:center; margin-right:10px;">
