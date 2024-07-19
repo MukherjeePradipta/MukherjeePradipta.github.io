@@ -10,24 +10,26 @@
 ############################
 
 # Name of website
-title: MedPhotonica Lab @ IIT Delhi
+title: BioPhotonica Lab @ IIT Delhi
 
 # Your name to show in the footer
-author: MedPhotonica Lab
+author: BioPhotonica Lab
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 navbar-links:
   Home: "https://mukherjeepradipta.github.io/"
-  News: "news"
+  
   Research: "pages/Research"
   
   Publications:
     - Journal Papers: "pages/journal"
     - Conference Papers: "pages/conference"
     - Patents: "pages/patents"
+  Teaching: "pages/Teaching"
   Team: "pages/People"
+  News: "news"
   Openings: "pages/joinus"
   Contact: "pages/contact"
 ################
