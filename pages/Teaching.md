@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Teaching"
-author: Pradipta Mukherjee
+subtitle: ""
 ---
 I am teaching the following courses at the Centre for Biomedical Engineering (CBME): 
 
