@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 subtitle: ""
-cover-img: assets/img/output.jpg
+cover-img: assets/img/Research_page.png
 ---
 
-To be updated. 
+**To be updated Soon.** 
