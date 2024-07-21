@@ -13,7 +13,7 @@ Centre for Biomedical Engineering (CBME)
 Block-IV, Cabin- 4B-7  
 Indian Institute of Technology Delhi  
 Hauz Khas, New Delhi- 110016   
-Contact Number (Office): +91(0)-11-2659-1333
+Tel: +91(0)-11-2659-1333 (Office)
 
 **Email:**  
 Primary: [pmukherjee@cbme.iitd.ac.in](mailto:pmukherjee@cbme.iitd.ac.in)  
