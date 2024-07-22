@@ -5,4 +5,4 @@ subtitle: ""
 cover-img: assets/img/Research_page.png
 ---
 
-**To be updated Soon.** 
+To be updated soon...
