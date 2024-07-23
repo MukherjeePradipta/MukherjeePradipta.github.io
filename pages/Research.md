@@ -9,4 +9,4 @@ Our current research interests are the following:
 - **Label-free imaging**
 - **Multi-functional optical coherence tomography**
 - **Quantitative Polarization Microscopy**
-- **Computational imaging**
+- **Computational imaging**
