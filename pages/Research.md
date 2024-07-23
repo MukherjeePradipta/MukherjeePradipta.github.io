@@ -12,7 +12,7 @@ Our current research interests are the following:
 - **Quantitative Polarization Microscopy**
 - **Computational imaging**
 
-<span style="color:blue">**Label-free Imaging**</span>.
+<span style="color:blue">**Label-free Imaging**</span>
 
 {: .box-success}
 <b>Label-free imaging</b>  
