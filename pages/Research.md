@@ -7,11 +7,12 @@ subtitle: ""
 Our group is interested in developing next-generation medical devices and computational tools to assess complex biological processes within intricate biological systems non-invasively and label-free. Through advanced engineering, we aim to achieve deeper tissue penetration, faster acquisition times, multi-functional contrasts, and automated high-throughput visualization of biological systems.
 
 Our current research interests are the following: 
-- **Label-free imaging**
-- **Multi-functional optical coherence tomography**
-- **Quantitative Polarization Microscopy**
-- **Computational imaging** 
+* [**Label-free imaging**](#Label-free imaging)
+* [**Multi-functional optical coherence tomography**](#Multi-functional optical coherence tomography)
+- [**Quantitative Polarization Microscopy**](#Quantitative Polarization Microscopy)
+- [**Computational imaging**](#Computational imaging) 
 
+<div id="Label-free imaging"></div>
 ### Label-free imaging
 Label-free imaging techniques allow visualization of specific structures or molecules without the use of fluorescent dyes or contrast agents. This preserves the natural state of biological samples, making it suitable for long-term studies and clinical use. 
 
@@ -30,6 +31,7 @@ An example of multi-functional OCT is the Jones matrix-based polarization-sensit
 * [Chapter 1](#Chapter1)
 * [Chapter 2](#Chapter2)
 
+<div id="Chapter1"></div>
 ## Chapter 1
 
 Some text here.  
