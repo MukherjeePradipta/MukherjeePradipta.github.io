@@ -13,6 +13,5 @@ Our current research interests are the following:
 - **Computational imaging**
 
 
-**Label-free imaging:**
-
+**Label-free imaging:**   
 Label-free imaging techniques offer a way to visualize specific structures or molecules without the use of fluorescent dyes or contrast agents. These labels can be invasive, potentially altering the natural state of biological processes, causing photobleaching and phototoxicity, and requiring extensive preparation. In contrast, label-free imaging preserves the natural state of the biological sample, making it suitable for long-term studies and clinical use.
