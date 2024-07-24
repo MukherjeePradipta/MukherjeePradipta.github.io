@@ -9,7 +9,7 @@ Our group is interested in developing next-generation medical devices and comput
 Our current research interests are the following: 
 * [**Label-free imaging**](#Label-free imaging)
 * [**Multi-functional optical coherence tomography**](#Multi-functional optical coherence tomography)
-- [**Quantitative Polarization Microscopy**](#Quantitative Polarization Microscopy)
+- [**Quantitative polarization microscopy**](#Quantitative polarization microscopy)
 - [**Computational imaging**](#Computational imaging) 
 
 <div id="Label-free imaging"></div>
@@ -23,8 +23,7 @@ Optical coherence tomography (OCT) is a non-invasive imaging technique that prov
 
 An example of multi-functional OCT is the Jones matrix-based polarization-sensitive OCT (JM-OCT) system. By proper signal processing algorithms, JM-OCT can provide multi-functional information about tissue properties, such as its structural properties (OCT intensity), dynamic properties (tissue activity), angiography (blood flow information), and polarization properties (birefringence).
 
-### Quantitative polarization microscopy <span id="Quantitative Polarization Microscopy"><span>
-
-
+### Quantitative polarization microscopy <span id="Quantitative polarization microscopy"><span>
+Polarization microscopy has been used for a long time to study the structural anisotropy and molecular orientation in birefringent tissues like muscle fibers, collagen, nerve tissues, and other fibrous tissues. Recent advancements in computational methods and imaging technologies have expanded the capabilities of polarization microscopy into quantitative polarization microscopy (QPM). Techniques such as Mueller matrix microscopy provide a complete description of the polarization properties of specimens, including birefringence, optical rotation, and depolarization. Analyzing the full Mueller matrix can enhance contrast and differentiate between different tissue types that are otherwise inaccessible with conventional microscopy techniques.
 
 ### Computational imaging <span id="Computational imaging"><span>
