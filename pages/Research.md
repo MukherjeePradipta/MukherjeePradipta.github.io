@@ -14,7 +14,7 @@ Our current research interests are the following:
 
 <div id="Label-free imaging"></div>
 ### Label-free imaging
-Label-free imaging techniques allow visualization of specific structures or molecules without the use of fluorescent dyes or contrast agents. This preserves the natural state of biological samples, making it suitable for long-term studies and clinical use. 
+Label-free imaging captures the intrinsic properties of a sample, such as the sample’s refractive index variations, autofluorescence, molecular vibrations, birefringence, scattering or absorption properties, to generate imaging contrast without the use of fluorescent dyes or contrast agents. This preserves the natural state of biological samples, making it suitable for long-term studies and clinical use. 
 
 We recently introduced a label-free approach for three-dimensional visualization of cellular and tissue metabolic activity without the need for labeling agents. By employing a customized scanning protocol and statistically analyzing rapid-time-sequence optical coherence tomography (OCT) signals at the same location of a sample, we are able to visualize and quantify tissue metabolism. This method was used to study the long-term activity of healthy and fibrotic liver microvasculature, revealing high dynamics in the liver's periportal/pericentral region and degradation of tissue activity over time. Another study demonstrated the activity of renal tubules in normal kidneys, and a loss of functional activity in unilateral obstructed kidney models.
 
