@@ -18,6 +18,8 @@ Label-free imaging captures the intrinsic properties of a sample, such as the sa
 
 We recently introduced a label-free approach for three-dimensional visualization of cellular and tissue metabolic activity without the need for labeling agents. By employing a customized scanning protocol and statistically analyzing rapid-time-sequence optical coherence tomography (OCT) signals at the same location of a sample, we are able to visualize and quantify tissue metabolism. This method was used to study the long-term activity of healthy and fibrotic liver microvasculature, revealing high dynamics in the liver's periportal/pericentral region and degradation of tissue activity over time. Another study demonstrated the activity of renal tubules in normal kidneys, and a loss of functional activity in unilateral obstructed kidney models.
 
+![Renal tubule results](assets/img/renal_tubule_dynamics.png){: .center-image }
+
 ### Multi-functional optical coherence tomography <span id="Multi-functional optical coherence tomography"><span>
 Optical coherence tomography (OCT) is a non-invasive imaging technique that provides high-resolution (micrometer), cross-sectional views of biological tissue. Multi-functional OCT expands the capabilities of conventional OCT by providing both structural and functional aspects of tissues, enabling more detailed assessments of various medical conditions. 
 
