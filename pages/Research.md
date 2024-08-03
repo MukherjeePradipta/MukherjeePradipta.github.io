@@ -20,7 +20,7 @@ We recently introduced a label-free approach for three-dimensional visualization
 
 
 Another study demonstrated the activity of renal tubules in normal kidneys, and a loss of functional activity in unilateral obstructed kidney models.
-![Renal tubule results](../assets/img/renal_tubule_.png){: .center-image }
+![Renal tubule results](../assets/img/renal_tubule.png){: .center-image }
 
 ### Multi-functional optical coherence tomography <span id="Multi-functional optical coherence tomography"><span>
 Optical coherence tomography (OCT) is a non-invasive imaging technique that provides high-resolution (micrometer), cross-sectional views of biological tissue. Multi-functional OCT expands the capabilities of conventional OCT by providing both structural and functional aspects of tissues, enabling more detailed assessments of various medical conditions. 
