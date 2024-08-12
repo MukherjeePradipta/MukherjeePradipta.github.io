@@ -20,7 +20,7 @@ Hauz Khas, New Delhi - 110016, India
 
 
 
-<!-- ## PhD Students -->
+## PhD Students
 <div style="display:flex; justify-content:center; align-items:center;">
   <!-- PhD student 1 -->
    <div style="flex:1; text-align:center; margin-right:10px;">
