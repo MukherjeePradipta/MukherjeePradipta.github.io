@@ -25,9 +25,10 @@ Hauz Khas, New Delhi - 110016, India
   <!-- PhD student 1 -->
    <div style="flex:1; text-align:center; margin-right:10px;">
     <img src="https://via.placeholder.com/200" width="200" alt="PhD Student1" style="display:block; margin:auto;">
-    <strong>PhD Student 1</strong>
-    <p style="margin-top:5px;"><a href="mailto:abittykisku@gmail.com">Email</a> | <a     href="https://www.linkedin.com/in/PhDStudent1">LinkedIn</a></p>
+    <strong>Abritty Kisku</strong>
+    <p style="margin-top:5px;"><a href="mailto:abittykisku@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/abritty-kisku">LinkedIn</a></p>
     </div>
+    https://www.linkedin.com/in/abritty-kisku
 
   <!-- PhD student 2 -->
   <!--<div style="flex:1; text-align:center; margin-right:10px;">
