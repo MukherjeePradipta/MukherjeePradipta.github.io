@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/ebe31284-a401-4d5f-9ad3-9562ec6c3927)---
 layout: page
 title: "Lab Members"
 subtitle: ""
