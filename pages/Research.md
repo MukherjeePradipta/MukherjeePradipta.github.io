@@ -14,11 +14,11 @@ Our current research interests are the following:
 
 <div id="Label-free imaging"></div>
 ### Label-free imaging
-Label-free imaging captures the intrinsic properties of a sample, such as the sample’s refractive index variations, autofluorescence, molecular vibrations, birefringence, scattering or absorption properties, to generate imaging contrast without the use of fluorescent dyes or contrast agents. This preserves the natural state of biological samples, making it suitable for long-term studies and clinical use. 
+Label-free imaging captures intrinsic properties of a sample, such as sample’s refractive index variations, autofluorescence, molecular vibrations, metabolism, birefringence, scattering or absorption properties, to generate imaging contrast without the use of contrast agents. This preserves the natural state of biological samples, making it suitable for long-term studies and clinical use.
 
-We recently introduced a label-free approach for three-dimensional visualization of cellular and tissue metabolic activity without the need for labeling agents. By employing a customized scanning protocol and statistically analyzing rapid-time-sequence optical coherence tomography (OCT) signals at the same location of a sample, we are able to visualize and quantify tissue metabolism. This method was used to study the long-term activity of healthy and fibrotic liver microvasculature, revealing high dynamics in the liver's periportal/pericentral region and degradation of tissue activity over time. 
+We recently introduced a label-free approach for three-dimensional visualization of cellular and tissue metabolic activity without the need for fluorescent dyes [El sadek et al., Biomedical Optics Express, 11, 6231-6248 (2020) and El Sadek et al., Biomedical Optics Express, 12, 6844-6863 (2021)]. By employing a customized scanning protocol and statistically analyzing rapid-time-sequence optical coherence tomography (OCT) signals at the same location of a sample, we were able to visualize and quantify tissue metabolism. This method was used to study the long-term activity of healthy and fibrotic liver microvasculature complex [Mukherjee et al., Scientific Reports 11, 20054 (2021)] 
 ![Liver longitudinal study results](../assets/img/liver_LongitudinalStudy.png){: .center-image }
-Another study demonstrated the usefullness of a label-free technique to visualize the activity of renal tubules in normal and unilateral obstructed kidney models.
+and the activity of renal tubules in normal and unilateral obstructed kidney models [Mukherjee et al., Scientific Reports 13, 15324 (2023)].
 ![Renal tubule results](../assets/img/renal_tubule.png){: .center-image }
 
 ### Multi-functional optical coherence tomography <span id="Multi-functional optical coherence tomography"><span>
