@@ -28,7 +28,7 @@ An example of multi-functional OCT is the Jones matrix-based polarization-sensit
 
 ### Quantitative polarization microscopy (QPM) <span id="Quantitative polarization microscopy"><span>
 Polarization microscopy has long been instrumental in studying the structural anisotropy and orientation of birefringent tissues such as muscle fibers, collagen, nerve tissues, and other fibrous materials. Recent advancements in computational techniques and imaging technologies have significantly enhanced its capabilities, leading to the development of quantitative polarization microscopy (QPM). 
-Techniques like Mueller matrix microscopy now offer a comprehensive and quantitative analysis of a specimen's polarization properties, including birefringence, optical rotation, and depolarization—parameters that are beyond the reach of conventional microscopy methods.
+Techniques like Mueller matrix microscopy now offer a comprehensive and quantitative analysis of a specimen's polarization properties, including birefringence, optical rotation, diattenuation, and depolarization—parameters that are beyond the reach of conventional microscopy methods.
 [[Mukherjee et al., Biomedical Optics Express, 10(8), 3847-3859 (2019)](https://www.osapublishing.org/abstract.cfm?URI=boe-10-8-3847)].
 
 ### Computational imaging <span id="Computational imaging"><span>
