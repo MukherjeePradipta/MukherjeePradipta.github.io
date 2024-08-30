@@ -28,6 +28,16 @@ Hauz Khas, New Delhi - 110016, India
   </div>
 </div>
 
+## Project Assistants
+<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
+  <!-- Project assistant 1 -->
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
+    <img src= "https://via.placeholder.com/200" alt="Project Assistant 1" style="display: block;">
+    <strong>Sufia Jilani</strong>
+    <p style="margin-top: 5px;"><a href="mailto:jilanisufia99@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/ProjectAssistant1">LinkedIn>LinkedIn</a></p>
+  </div>
+</div>
+
 <!-- ## PhD Students --> 
 <!--<div style="display:flex; justify-content:left; align-items:left;">
   <!-- PhD student 1 -->
