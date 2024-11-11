@@ -23,7 +23,7 @@ Hauz Khas, New Delhi - 110016, India
   <!-- PhD student 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Abritty.JPG" width="200" alt="PhD Student1" style="display: block;">
-    <strong>Abritty Kisku</strong>
+    <strong>Abritty</strong>
     <p style="margin-top: 5px;"><a href="mailto:abittykisku@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/abritty-kisku">LinkedIn</a></p>
   </div>
 </div>
@@ -33,7 +33,7 @@ Hauz Khas, New Delhi - 110016, India
   <!-- Project assistant 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_sufia.jpg" width="200" alt="Project Assistant 1" style="display: block;">
-    <strong>Sufia Jilani</strong>
+    <strong>Sufia</strong>
     <p style="margin-top: 5px;"><a href="mailto:jilanisufia@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/sufia-jilani-7873172a3/">LinkedIn</a></p>
   </div>
 </div>
