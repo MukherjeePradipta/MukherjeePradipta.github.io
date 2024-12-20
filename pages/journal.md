@@ -9,7 +9,7 @@ subtitle: ""
 
 
 #### 2024
-1.  Yiheng Lim, Shumpei Kojima, <u>Pradipta Mukherjee</u>, Ibrahim Abd El-Sadek,Shuichi Makita, and Yoshiaki Yasuno, ["Developmental Imaging of Radish Sprouts Using Dynamic Optical Coherence Tomography,"](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202400254) Journal of Biophotonics, e202400254 (2024).
+1.  Yiheng Lim, Shumpei Kojima, <u>Pradipta Mukherjee</u>, Ibrahim Abd El-Sadek, Shuichi Makita, and Yoshiaki Yasuno, ["Developmental Imaging of Radish Sprouts Using Dynamic Optical Coherence Tomography,"](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202400254) Journal of Biophotonics, e202400254 (2024).
 
 2.  Thitiya Seesan, <u>Pradipta Mukherjee</u>, Ibrahim Abd El-Sadek, Yiheng Lim, Lida Zhu, Shuichi Makita, and Yoshiaki Yasuno, ["Optical-coherence-tomography-based deep-learning scatterer-density estimator using physically accurate noise model,"](https://opg.optica.org/boe/abstract.cfm?uri=boe-15-5-2832) Biomedcal Optics Express, 15, 2832–2848 (2024).
 
