@@ -9,14 +9,14 @@ subtitle: ""
 
 
 #### 2024
+1.  Yiheng Lim, Shumpei Kojima, <u>Pradipta Mukherjee</u>, Ibrahim Abd El-Sadek,Shuichi Makita, and Yoshiaki Yasuno, ["Developmental Imaging of Radish Sprouts Using Dynamic Optical Coherence Tomography,"](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202400254) Journal of Biophotonics, e202400254 (2024).
+
+2.  Thitiya Seesan, <u>Pradipta Mukherjee</u>, Ibrahim Abd El-Sadek, Yiheng Lim, Lida Zhu, Shuichi Makita, and Yoshiaki Yasuno, ["Optical-coherence-tomography-based deep-learning scatterer-density estimator using physically accurate noise model,"](https://opg.optica.org/boe/abstract.cfm?uri=boe-15-5-2832) Biomedcal Optics Express, 15, 2832–2848 (2024).
 
 
-1.  Thitiya Seesan, <u>Pradipta Mukherjee</u>, Ibrahim Abd El-Sadek, Yiheng Lim, Lida Zhu, Shuichi Makita, and Yoshiaki Yasuno, ["Optical-coherence-tomography-based deep-learning scatterer-density estimator using physically accurate noise model,"](https://opg.optica.org/boe/abstract.cfm?uri=boe-15-5-2832) Biomedcal Optics Express, 15, 2832–2848 (2024).
+3. Ibrahim Abd El-Sadek, Rion Morishita, Tomoko Mori, Shuichi Makita, <u>Pradipta Mukherjee</u>, Satoshi Matsusaka, and Yoshiaki Yasuno, ["Label-free visualization and quantification of the drug-type-dependent response of tumor spheroids by dynamic optical coherence tomography"](https://www.nature.com/articles/s41598-024-53171-4), Scientific Reports 14, 3366 (2024).
 
-
-2. Ibrahim Abd El-Sadek, Rion Morishita, Tomoko Mori, Shuichi Makita, <u>Pradipta Mukherjee</u>, Satoshi Matsusaka, and Yoshiaki Yasuno, ["Label-free visualization and quantification of the drug-type-dependent response of tumor spheroids by dynamic optical coherence tomography"](https://www.nature.com/articles/s41598-024-53171-4), Scientific Reports 14, 3366 (2024).
-
-3. Lida Zhu, Shuichi Makita, Junya Tamaoki, Yiqiang Zhu, <u>Pradipta Mukherjee</u>, Yiheng Lim, Makoto Kobayashi, and Yoshiaki Yasuno, ["Polarization-artifact reduction and accuracy improvement of Jones-matrix polarization-sensitive optical coherence tomography by multi-focus-averaging based multiple scattering reduction"](https://opg.optica.org/boe/abstract.cfm?uri=boe-15-1-256), Biomedical Optics Express, 15, 256–276 (2024).
+4. Lida Zhu, Shuichi Makita, Junya Tamaoki, Yiqiang Zhu, <u>Pradipta Mukherjee</u>, Yiheng Lim, Makoto Kobayashi, and Yoshiaki Yasuno, ["Polarization-artifact reduction and accuracy improvement of Jones-matrix polarization-sensitive optical coherence tomography by multi-focus-averaging based multiple scattering reduction"](https://opg.optica.org/boe/abstract.cfm?uri=boe-15-1-256), Biomedical Optics Express, 15, 256–276 (2024).
 
 #### 2023
 
