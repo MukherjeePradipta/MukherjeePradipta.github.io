@@ -17,9 +17,10 @@ The session was attended by CBME students and faculty members.
 **July 2024:**  
 Abritty joined the BioPhotonica Lab as a PhD student. 
 Let's welcome her! 
-Abritty completed her integrated M.Sc. in Bioscience from IISC Bangalore and qualified for the CSIR-NET (JRF) twice, in 2021 and 2023. 
-Prior to joining our lab, she worked as a Junior Research Fellow (JRF).....
-Her research interests include optical coherence tomography, retinal imaging, and animal model studies. 
+Abritty is a biologist with a Master’s in Bioscience from IISc Bangalore.
+She qualified CSIR-NET (JRF) twice, in 2021 and 2023.
+Prior to joining our lab, she worked in cellular biology and microscopy imaging areas.
+Her research interests include multimodal imaging, artificial intelligence, and animal model studies. 
 
 **Feb 2024:**  
 Pradipta joined the Centre for Biomedical Engineering at IIT Delhi as an Assistant Professor and established the BioPhotonica Lab. 
