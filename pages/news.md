@@ -1,3 +1,8 @@
+---
+layout: page
+title: News and Announcements
+subtitle: "Stay updated with our lab's latest news"
+---
 
 **January 2025:**  
 Pradipta was invited to give a talk on "Dynamic Optical Coherence Tomography: Visualizing 3D Tissue Dynamics Without Labeling" at an [international workshop on Recent Trends in Electromagnetics and Optics](https://workshoprteop2025.iiests.ac.in/), organized by IIEST Shibpur.
