@@ -5,7 +5,7 @@ subtitle: Stay updated with our lab's latest news
 ---
 
 **Jan 2025:**  
-Pradipta was invited to give a talk on "Dynamic OCT: Visualizing 3D Tissue Dynamics Without Labeling" at an [international workshop on Recent Trends in Electromagnetics and Optics](https://workshoprteop2025.iiests.ac.in/), organized by IIEST Shibpur.
+Pradipta was invited to give a talk on "Dynamic OCT: Visualizing 3D tissue dynamics without labeling" at an [international workshop on Recent Trends in Electromagnetics and Optics](https://workshoprteop2025.iiests.ac.in/), organized by IIEST Shibpur.
 
 **Sept 2024:**  
 Sufia joined our group as a project assistant after completing her M.Sc. in Biophysics from Jamia Millia Islamia. In her Master's dissertation, she worked on a biophysical approach to studying Parkinson's disease. 
