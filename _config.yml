@@ -29,7 +29,7 @@ navbar-links:
     - Patents: "pages/patents"
   Teaching: "pages/Teaching"
   Team: "pages/People"
-  News: "news"
+  News: "pages/news"
   Openings: "pages/joinus"
   Contact: "pages/contact"
 ################
