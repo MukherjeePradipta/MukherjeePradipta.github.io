@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News and Announcements
-subtitle: "Stay updated with our lab's latest news"
+subtitle: Stay updated with our lab's latest news
 ---
 
 **January 2025:**  
