@@ -38,7 +38,6 @@ Hauz Khas, New Delhi - 110016, India
   </div>
 </div>
 
-
 ## Project Assistants
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Project assistant 1 -->
