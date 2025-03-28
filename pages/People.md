@@ -28,6 +28,15 @@ Hauz Khas, New Delhi - 110016, India
   </div>
 </div>
 
+## Interns
+<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
+  <!-- PhD student 1 -->
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
+    <img src= "/images/Headshot_Abritty.JPG" width="200" alt="PhD Student1" style="display: block;">
+    <strong>Abritty</strong>
+    <p style="margin-top: 5px;"><a href="mailto:23dhruvsingh@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/dhruv-singh-a65819251">LinkedIn</a></p>
+  </div>
+</div>
 ## Project Assistants
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Project assistant 1 -->
