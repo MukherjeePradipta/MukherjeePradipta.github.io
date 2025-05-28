@@ -63,7 +63,7 @@ Hauz Khas, New Delhi - 110016, India
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
-    <img src= "/images/Headshot_Rishav.jpg" width="200" alt="Intern1" style="display: block;">
+    <img src= "/images/Headshot_Rishab.jpg" width="200" alt="Intern1" style="display: block;">
     <strong>Rishab Ashwin Iyer</strong>
     <p style="margin-top: 5px;"><a href="mailto:bm23btech11019@iith.ac.in">Email</a>
   </div>
