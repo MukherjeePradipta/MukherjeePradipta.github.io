@@ -43,7 +43,7 @@ Hauz Khas, New Delhi - 110016, India
     <strong>Devraj Singh</strong>
     <p style="margin-top: 5px;"><a href="mailto:devraj.singh.bme23@itbhu.ac.in">Email</a></p>
   </div>
-</div>
+
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
@@ -51,7 +51,7 @@ Hauz Khas, New Delhi - 110016, India
     <strong>Oppilan Iniyan</strong>
     <p style="margin-top: 5px;"><a href="mailto:oppilan.iniyan.bme23@itbhu.ac.in">Email</a> </p>
   </div>
-</div>
+
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
@@ -59,13 +59,13 @@ Hauz Khas, New Delhi - 110016, India
     <strong>Shravan Ramakrishnan</strong>
     <p style="margin-top: 5px;"><a href="mailto:ramakrishnanshravan@gmail.com">Email</a></p>
   </div>
-</div>
+
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Rishab.jpg" width="200" alt="Intern1" style="display: block;">
     <strong>Rishab Ashwin Iyer</strong>
-    <p style="margin-top: 5px;"><a href="mailto:bm23btech11019@iith.ac.in">Email</a>
+    <p style="margin-top: 5px;"><a href="mailto:bm23btech11019@iith.ac.in">Email</a></p>
   </div>
 </div>
 
