@@ -68,6 +68,7 @@ Hauz Khas, New Delhi - 110016, India
     <p style="margin-top: 5px;"><a href="mailto:bm23btech11019@iith.ac.in">Email</a></p>
   </div>
 </div>
+</div>
 
 ## Alumni
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
