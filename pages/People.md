@@ -18,33 +18,64 @@ Hauz Khas, New Delhi - 110016, India
 <br/>
 <br/>
 
-## PhD Students
+## Graduate Students
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- PhD student 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Abritty.JPG" width="200" alt="PhD Student1" style="display: block;">
-    <strong>Abritty</strong>
-    <p style="margin-top: 5px;"><a href="mailto:abittykisku@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/abritty-kisku">LinkedIn</a></p>
+    <strong>Abritty Kisku</strong>
+    <p style="margin-top: 5px;"><a href="mailto:abittykisku@gmail.com">Email</a></p>
   </div>
 </div>
 
-## Interns
+## Undergraduate students
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Dhruv.jpg" width="200" alt="Intern1" style="display: block;">
-    <strong>Dhruv</strong>
-    <p style="margin-top: 5px;"><a href="mailto:23dhruvsingh@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/dhruv-singh-a65819251">LinkedIn</a></p>
+    <strong>Dhruv Singh</strong>
+    <p style="margin-top: 5px;"><a href="mailto:23dhruvsingh@gmail.com">Email</a></p>
+  </div>
+<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
+  <!-- Interns1 -->
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
+    <img src= "/images/Headshot_Devraj.jpeg" width="200" alt="Intern1" style="display: block;">
+    <strong>Devraj Singh</strong>
+    <p style="margin-top: 5px;"><a href="mailto:devraj.singh.bme23@itbhu.ac.in">Email</a></p>
+  </div>
+</div>
+<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
+  <!-- Interns1 -->
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
+    <img src= "/images/Headshot_Oppilan.jpg" width="200" alt="Intern1" style="display: block;">
+    <strong>Oppilan Iniyan</strong>
+    <p style="margin-top: 5px;"><a href="mailto:oppilan.iniyan.bme23@itbhu.ac.in">Email</a> </p>
+  </div>
+</div>
+<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
+  <!-- Interns1 -->
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
+    <img src= "/images/Headshot_Shravan.jpg" width="200" alt="Intern1" style="display: block;">
+    <strong>Shravan Ramakrishnan</strong>
+    <p style="margin-top: 5px;"><a href="mailto:ramakrishnanshravan@gmail.com">Email</a></p>
+  </div>
+</div>
+<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
+  <!-- Interns1 -->
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
+    <img src= "/images/Headshot_Rishav.jpg" width="200" alt="Intern1" style="display: block;">
+    <strong>Rishab Ashwin Iyer</strong>
+    <p style="margin-top: 5px;"><a href="mailto:bm23btech11019@iith.ac.in">Email</a>
   </div>
 </div>
 
-## Project Assistants
+## Alumni
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Project assistant 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_sufia.jpg" width="200" alt="Project Assistant 1" style="display: block;">
-    <strong>Sufia</strong>
-    <p style="margin-top: 5px;"><a href="mailto:jilanisufia@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/sufia-jilani-7873172a3/">LinkedIn</a></p>
+    <strong>Sufia Jilani</strong>
+    <p style="margin-top: 5px;"><a href="mailto:jilanisufia@gmail.com">Email</a></p>
   </div>
 </div>
 
