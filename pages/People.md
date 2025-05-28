@@ -22,7 +22,7 @@ Hauz Khas, New Delhi - 110016, India
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- PhD student 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
-    <img src= "/images/Headshot_Abritty.JPG" height="300" width="200" alt="PhD Student1" style="display: block;">
+    <img src= "/images/Headshot_Abritty.JPG" width="200" alt="PhD Student1" style="display: block;">
     <strong>Abritty Kisku</strong>
     <p style="margin-top: 5px;"><a href="mailto:abittykisku@gmail.com">Email</a></p>
   </div>
@@ -31,7 +31,7 @@ Hauz Khas, New Delhi - 110016, India
 ## Undergraduate students
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns1 -->
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 20px;">
     <img src= "/images/Headshot_Dhruv.jpg" width="200" alt="Intern1" style="display: block;">
     <strong>Dhruv Singh</strong>
     <p style="margin-top: 5px;"><a href="mailto:23dhruvsingh@gmail.com">Email</a></p>
