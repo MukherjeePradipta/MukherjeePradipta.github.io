@@ -13,7 +13,7 @@ Centre for Biomedical Engineering (CBME)
 Indian Institute of Technology Delhi   
 Office: Block IV, Room 4B-7   
 Hauz Khas, New Delhi - 110016, India
-  
+
 [CV](/pdf/CV_PradiptaMukherjee.pdf) | [E-mail](mailto:pmukherjee@cbme.iitd.ac.in) |  [Linkedin](https://www.linkedin.com/in/pmukherjee-iitd/) | [Google Scholar](https://scholar.google.co.jp/citations?hl=en&user=MUwLzbEAAAAJ&view_op=list_works) | [ResearchGate](https://www.researchgate.net/profile/Pradipta-Mukherjee) | [IRINS](https://iitd.irins.org/profile/508557)
 <br/>
 <br/>
@@ -22,7 +22,7 @@ Hauz Khas, New Delhi - 110016, India
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- PhD student 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
-    <img src= "/images/Headshot_Abritty.JPG" width="200" alt="PhD Student1" style="display: block;">
+    <img src= "/images/Headshot_Abritty.JPG" alt="PhD Student1" style="display: block;">
     <strong>Abritty Kisku</strong>
   </div>
 </div>
@@ -35,40 +35,41 @@ Hauz Khas, New Delhi - 110016, India
     <strong>Dhruv Singh</strong>
   </div>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
-  <!-- Interns1 -->
+  <!-- Interns2 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 20px;">
-    <img src= "/images/Headshot_Devraj.jpg" alt="Intern1" style="display: block;">
+    <img src= "/images/Headshot_Devraj.jpg" alt="Intern2" style="display: block;">
     <strong>Devraj Singh</strong>
   </div>
 </div>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
-  <!-- Interns1 -->
+  <!-- Interns3 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 20px;">
-    <img src= "/images/Headshot_Oppilan.jpg" alt="Intern1" style="display: block;">
+    <img src= "/images/Headshot_Oppilan.jpg" alt="Intern3" style="display: block;">
     <strong>Oppilan Iniyan</strong>
   </div>
 </div>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
-  <!-- Interns1 -->
+  <!-- Interns4 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 20px;">
-    <img src= "/images/Headshot_Shravan.jpg" alt="Intern1" style="display: block;">
+    <img src= "/images/Headshot_Shravan.jpg" alt="Intern4" style="display: block;">
     <strong>Shravan Ramakrishnan</strong>
   </div>
 </div>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
-  <!-- Interns1 -->
+  <!-- Interns5 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 20px;">
-    <img src= "/images/Headshot_Rishab.jpg" alt="Intern1" style="display: block;">
+    <img src= "/images/Headshot_Rishab.jpg" alt="Intern5" style="display: block;">
     <strong>Rishab Ashwin Iyer</strong>
   </div>
 </div>
 </div>
 
+
 ## Alumni
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Project assistant 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
-    <img src= "/images/Headshot_sufia.jpg" width="200" alt="Project Assistant 1" style="display: block;">
+    <img src= "/images/Headshot_sufia.jpg" alt="Project Assistant 1" style="display: block;">
     <strong>Sufia Jilani</strong>
   </div>
 </div>
