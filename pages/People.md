@@ -22,7 +22,7 @@ Hauz Khas, New Delhi - 110016, India
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- PhD student 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
-    <img src= "/images/Headshot_Abritty.JPG" width="200" alt="PhD Student1" style="display: block;">
+    <img src= "/images/Headshot_Abritty.JPG" width="150" alt="PhD Student1" style="display: block;">
     <strong>Abritty Kisku</strong>
   </div>
 </div>
@@ -31,20 +31,20 @@ Hauz Khas, New Delhi - 110016, India
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
-    <img src= "/images/Headshot_Dhruv.jpg" width="100" alt="Intern1" style="display: block;">
+    <img src= "/images/Headshot_Dhruv.jpg" width="150" alt="Intern1" style="display: block;">
     <strong>Dhruv Singh</strong>
   </div>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns2 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
-    <img src= "/images/Headshot_Devraj.jpg" width="100" alt="Intern2" style="display: block;">
+    <img src= "/images/Headshot_Devraj.jpg" width="150" alt="Intern2" style="display: block;">
     <strong>Devraj Singh</strong>
   </div>
 </div>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns3 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
-    <img src= "/images/Headshot_Oppilan.jpg" width="100" alt="Intern3" style="display: block;">
+    <img src= "/images/Headshot_Oppilan.jpg" width="150" alt="Intern3" style="display: block;">
     <strong>Oppilan Iniyan</strong>
   </div>
 </div>
@@ -56,7 +56,7 @@ Hauz Khas, New Delhi - 110016, India
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Project assistant 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
-    <img src= "/images/Headshot_sufia.jpg" width="200" alt="Project Assistant 1" style="display: block;">
+    <img src= "/images/Headshot_sufia.jpg" width="150" alt="Project Assistant 1" style="display: block;">
     <strong>Sufia Jilani</strong>
   </div>
 </div>
