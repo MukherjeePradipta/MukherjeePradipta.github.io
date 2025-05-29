@@ -48,7 +48,6 @@ Hauz Khas, New Delhi - 110016, India
     <strong>Oppilan Iniyan</strong>
   </div>
 </div>
-
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns4 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
