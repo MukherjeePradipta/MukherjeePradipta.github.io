@@ -4,6 +4,9 @@ title: News and Announcements
 subtitle: Stay updated with our lab's latest news
 ---
 
+**May 2025:**   
+Five talented undergraduate B.Tech students—Dhruv Singh (LD College of Engineering), Devraj Singh (IIT BHU), Oppilan Iniyan (IIT BHU), Rishab Ashwin Iyer (IIT Hyderabad), and Shravan Ramakrishnan (NIT Rourkela)—have joined the BioPhotonica Lab for their two-month summer internship projects.
+
 **Jan 2025:**  
 Pradipta was invited to give a talk on "Dynamic OCT: Visualizing 3D tissue dynamics without labeling" at an [international workshop on Recent Trends in Electromagnetics and Optics](https://workshoprteop2025.iiests.ac.in/), organized by IIEST Shibpur.
 
