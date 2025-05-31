@@ -32,34 +32,34 @@ Hauz Khas, New Delhi - 110016, India
   <!-- Interns1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Dhruv.jpg" width="150" alt="Intern1" style="display: block;">
-    <strong>Dhruv Singh</strong>
+    <strong>Dhruv</strong>
   </div>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns2 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Devraj.jpg" width="150" alt="Intern2" style="display: block;">
-    <strong>Devraj Singh</strong>
+    <strong>Devraj</strong>
   </div>
 </div>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns3 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Oppilan.jpg" width="150" alt="Intern3" style="display: block;">
-    <strong>Oppilan Iniyan</strong>
+    <strong>Oppilan</strong>
   </div>
 </div>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns4 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Shravan.jpg" width="150" alt="Intern4" style="display: block;">
-    <strong>Shravan Ramakrishnan</strong>
+    <strong>Shravan</strong>
   </div>
 </div>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Interns5 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Rishab.jpg" width="150" alt="Intern5" style="display: block;">
-    <strong>Rishab Ashwin Iyer</strong>
+    <strong>Rishab</strong>
   </div>
 </div>
 </div>
