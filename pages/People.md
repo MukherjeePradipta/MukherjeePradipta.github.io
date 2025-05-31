@@ -23,7 +23,7 @@ Hauz Khas, New Delhi - 110016, India
   <!-- PhD student 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Abritty.JPG" width="150" alt="PhD Student1" style="display: block;">
-    <strong>Abritty Kisku</strong>
+    <strong>Abritty</strong>
   </div>
 </div>
 
@@ -70,7 +70,7 @@ Hauz Khas, New Delhi - 110016, India
   <!-- Project assistant 1 -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_sufia.jpg" width="150" alt="Project Assistant 1" style="display: block;">
-    <strong>Sufia Jilani</strong>
+    <strong>Sufia</strong>
   </div>
 </div>
 
