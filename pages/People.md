@@ -5,8 +5,7 @@ subtitle: ""
 author: Pradipta Mukherjee
 ---
 # Principal Investigator (PI)
-
-<img style="float: left; margin:0 10px 10px 0" src="/images/Headshot_PM4.png" width="150"/>
+<img style="float: left; margin:0 10px 10px 0" src="/images/Headshot_PM4.png" width="200"/>
 ### Pradipta Mukherjee, Ph.D.   
 Assistant Professor   
 Centre for Biomedical Engineering (CBME)   
