@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/261056ff-7f88-4500-8c83-b344ce657ac7)---
 layout: page
 title: "Lab Members"
 subtitle: ""
@@ -53,6 +53,13 @@ Hauz Khas, New Delhi - 110016, India
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
     <img src= "/images/Headshot_Shravan.jpg" width="150" alt="Intern4" style="display: block;">
     <strong>Shravan Ramakrishnan</strong>
+  </div>
+</div>
+<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
+  <!-- Interns5 -->
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-right: 10px;">
+    <img src= "/images/Headshot_Rishab.jpg" width="150" alt="Intern5" style="display: block;">
+    <strong>Rishab Ashwin Iyer</strong>
   </div>
 </div>
 
