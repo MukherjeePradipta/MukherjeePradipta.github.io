@@ -5,8 +5,16 @@ subtitle: ""
 ---
 I am teaching the following courses at the Centre for Biomedical Engineering (CBME): 
 
-**Academic Year (2024- 2025)**   
+**BML738/7380: Biomedical Data Analysis**
 
 **BML815: Optical Coherence Tomography- Technology and Applications**   
 
-**BMV702: Basic Mathematics for Biologists**   
+**BMV702: Basic Mathematics for Biologists**
+
+**BMP743: Basic Biomedical Laboratory**
+
+**BMD7331: Cornerstone Project**
+
+
+
+
