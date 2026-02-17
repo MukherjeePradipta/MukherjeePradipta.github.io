@@ -51,3 +51,15 @@ Hauz Khas, New Delhi - 110016, India
 
 </div>
 
+# Past Members
+
+### Project Staff
+- **Sufia Jilani** — Jamia Millia Islamia, 2025
+
+### Interns
+- **Devraj Singh** — IIT (BHU), 2025  
+- **Opplian Iniyan** — IIT (BHU), 2025  
+- **Rishab Ashwin Iyer** — IIT Hyderabad, 2025  
+- **Shravan Ramakrishnan** — NIT Rourkela, 2025  
+- **Sampriya Behera** — Amity University Haryana, 2025  
+
