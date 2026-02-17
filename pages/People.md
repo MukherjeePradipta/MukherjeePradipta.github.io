@@ -49,7 +49,6 @@ Hauz Khas, New Delhi - 110016, India
       M.Tech Student <br/>
       <strong>Research interests:</strong> Full field OCT<br/>
       <a href="mailto:bmt252523@cbme.iitd.ac.in">bmt252523@cbme.iitd.ac.in</a>
-    </p>
   </div>
 
 </div>
