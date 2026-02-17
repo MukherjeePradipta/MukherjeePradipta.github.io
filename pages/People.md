@@ -23,6 +23,8 @@ Hauz Khas, New Delhi - 110016, India
 #### PhD Student ( Aug 2024- )
 Research interest: Angiography imaging
 Abritty.Kisku@cbme.iitd.ac.in
+<br/>
+
 <img style="float: left; margin:0 10px 10px 0" src="/images/Headshot_Gaurang.JPG" width="200"/>
 ### Gaurang Garg
 #### PhD Student ( Aug 2025- )
