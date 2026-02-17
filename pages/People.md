@@ -26,7 +26,7 @@ Hauz Khas, New Delhi - 110016, India
   <div style="flex: 1 1 45%; min-width: 300px;">
     <img src="/images/Headshot_Abritty.JPG" width="200" style="display:block; margin-bottom:15px;" />
       <strong>Abritty Kisku</strong><br/>
-      PhD Student (Aug 2024– )<br/>
+      <strong>PhD Student (Aug 2024– )<strong><br/>
       <strong>Research interests:</strong> Angiography imaging<br/>
       <a href="mailto:Abritty.Kisku@cbme.iitd.ac.in">Abritty.Kisku@cbme.iitd.ac.in</a>
   </div>
@@ -35,7 +35,7 @@ Hauz Khas, New Delhi - 110016, India
   <div style="flex: 1 1 45%; min-width: 300px;">
     <img src="/images/Headshot_Gaurang.JPG" width="200" style="display:block; margin-bottom:15px;" />
       <strong>Gaurang Garg</strong><br/>
-      PhD Student (Aug 2025– )<br/>
+      <strong>PhD Student (Aug 2025– )<strong><br/>
       <strong>Research interests:</strong> Computational imaging<br/>
       <a href="mailto:bmz258440@cbme.iitd.ac.in">bmz258440@cbme.iitd.ac.in</a>
   </div>
@@ -44,7 +44,7 @@ Hauz Khas, New Delhi - 110016, India
   <div style="flex: 1 1 45%; min-width: 300px;">
     <img src="/images/Headshot_Dhruv_New.jpg" width="200" style="display:block; margin-bottom:15px;" />
       <strong>Dhruv Singh</strong><br/>
-      M.Tech Student <br/>
+      <strong>M.Tech Student<strong> <br/>
       <strong>Research interests:</strong> Full field OCT<br/>
       <a href="mailto:bmt252523@cbme.iitd.ac.in">bmt252523@cbme.iitd.ac.in</a>
   </div>
