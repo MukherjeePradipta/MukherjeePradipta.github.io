@@ -51,7 +51,6 @@ Hauz Khas, New Delhi - 110016, India
 
 </div>
 <br/>
-<br/>
 
 # Past Members
 
