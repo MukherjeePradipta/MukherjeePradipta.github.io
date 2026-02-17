@@ -20,7 +20,7 @@ Hauz Khas, New Delhi - 110016, India
 
 # Current Members
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- Member 1 -->
   <div style="flex: 1 1 45%; min-width: 300px;">
