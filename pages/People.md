@@ -32,7 +32,7 @@ Hauz Khas, New Delhi - 110016, India
   </div>
 
   <!-- Member 2 -->
-  <div style="flex: 1 1 45%; min-width: 300px;">
+  <div style="flex: 1 1 48%; min-width: 300px;">
     <img src="/images/Headshot_Gaurang.JPG" width="200" style="display:block; margin-bottom:15px;" />
       <strong>Gaurang Garg</strong><br/>
       PhD Student (Aug 2025– )<br/>
