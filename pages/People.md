@@ -18,6 +18,33 @@ Hauz Khas, New Delhi - 110016, India
 <br/>
 
 # Current Members
+
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+
+  <!-- Member 1 -->
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <img src="/images/Headshot_Abritty.JPG" width="200" style="margin-bottom:10px;" />
+    
+    ### Abritty Kisku
+    #### PhD Student (Aug 2024– )
+    **Research interest:** Angiography imaging  
+    Abritty.Kisku@cbme.iitd.ac.in
+  </div>
+
+  <!-- Member 2 -->
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <img src="/images/Headshot_Gaurang.JPG" width="200" style="margin-bottom:10px;" />
+    
+    ### Gaurang Garg
+    #### PhD Student (Aug 2025– )
+    **Research interest:** Computational imaging  
+    bmz258440@cbme.iitd.ac.in
+  </div>
+
+</div>
+
+-----------------
+# Current Members
 <img style="float: left; margin:0 10px 10px 0" src="/images/Headshot_Abritty.JPG" width="200"/>
 ### Abritty Kisku
 #### PhD Student ( Aug 2024- )
