@@ -24,8 +24,9 @@ Hauz Khas, New Delhi - 110016, India
 
   <!-- Member 1 -->
   <div style="flex: 1 1 45%; min-width: 300px;">
-    <img src="/images/Headshot_Abritty.JPG" width="180" style="display:block; margin:0 auto 15px auto; border-radius:50%;" />
+    <img src="/images/Headshot_Abritty.JPG" width="200" style="display:block; margin-bottom:15px;" />
 
+    <p>
       <strong>Abritty Kisku</strong><br/>
       PhD Student (Aug 2024– )<br/>
       <strong>Research interests:</strong> Angiography imaging<br/>
@@ -36,7 +37,8 @@ Hauz Khas, New Delhi - 110016, India
   <!-- Member 2 -->
   <div style="flex: 1 1 45%; min-width: 300px;">
     <img src="/images/Headshot_Gaurang.JPG" width="200" style="display:block; margin-bottom:15px;" />
-    
+
+    <p>
       <strong>Gaurang Garg</strong><br/>
       PhD Student (Aug 2025– )<br/>
       <strong>Research interests:</strong> Computational imaging<br/>
@@ -45,6 +47,7 @@ Hauz Khas, New Delhi - 110016, India
   </div>
 
 </div>
+
 
 
 
