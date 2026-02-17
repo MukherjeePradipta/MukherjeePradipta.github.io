@@ -29,7 +29,6 @@ Hauz Khas, New Delhi - 110016, India
       PhD Student (Aug 2024– )<br/>
       <strong>Research interests:</strong> Angiography imaging<br/>
       <a href="mailto:Abritty.Kisku@cbme.iitd.ac.in">Abritty.Kisku@cbme.iitd.ac.in</a>
-    </p>
   </div>
 
   <!-- Member 2 -->
@@ -39,7 +38,6 @@ Hauz Khas, New Delhi - 110016, India
       PhD Student (Aug 2025– )<br/>
       <strong>Research interests:</strong> Computational imaging<br/>
       <a href="mailto:bmz258440@cbme.iitd.ac.in">bmz258440@cbme.iitd.ac.in</a>
-    </p>
   </div>
 
  <!-- Member 3 -->
