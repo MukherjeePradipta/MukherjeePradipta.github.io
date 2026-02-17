@@ -35,12 +35,20 @@ Hauz Khas, New Delhi - 110016, India
   <!-- Member 2 -->
   <div style="flex: 1 1 45%; min-width: 300px;">
     <img src="/images/Headshot_Gaurang.JPG" width="200" style="display:block; margin-bottom:15px;" />
-
-    <p>
       <strong>Gaurang Garg</strong><br/>
       PhD Student (Aug 2025– )<br/>
       <strong>Research interests:</strong> Computational imaging<br/>
       <a href="mailto:bmz258440@cbme.iitd.ac.in">bmz258440@cbme.iitd.ac.in</a>
+    </p>
+  </div>
+
+ <!-- Member 3 -->
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <img src="/images/Headshot_Dhruv_New.jpg" width="200" style="display:block; margin-bottom:15px;" />
+      <strong>Dhruv Singh</strong><br/>
+      M.Tech Student <br/>
+      <strong>Research interests:</strong> Full field OCT<br/>
+      <a href="mailto:bmt252523@cbme.iitd.ac.in">bmt252523@cbme.iitd.ac.in</a>
     </p>
   </div>
 
